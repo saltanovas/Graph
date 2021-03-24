@@ -206,7 +206,7 @@ int main(int argc, char *argv[])
     isFileEmpty(fp);
 
     int n = howManyLines(fp);
-    char cities = (char **)calloc(n+n, sizeof(char *));
+    char **cities = (char **)calloc(n+n, sizeof(char *));
     int v = getVertices(fp, cities, n);
     int graph[v][v];
     memset(graph, 0, sizeof(graph[0][0]) * v * v);
