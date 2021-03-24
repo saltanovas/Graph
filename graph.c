@@ -3,58 +3,64 @@
 #include <limits.h>
 #include <string.h>
 
-void fileExists(FILE *duomf)
+#define MAX_CITY_SIZE 30
+
+void doesFileExists(FILE *fp)
 {
-    if  (!duomf)
+    if  (!fp)
     {
-        printf("Toks duomenu failas neegzistuoja!\n");
+        printf("Data file does not exist!\n");
         exit(1);
     }
 }
 
-void isFileEmpty(FILE *duomf)
+void isFileEmpty(FILE *fp)
 {
-    fseek(duomf, 0, SEEK_END);
-    if (ftell(duomf) == 0)
+    fseek(fp, 0, SEEK_END);
+    if (ftell(fp) == 0)
     {
-        printf("Duomenu failas yra tuscias!\n");
+        printf("Data file is empty!\n");
         exit(1);
     }
-    fseek(duomf, 0, SEEK_SET);
+    fseek(fp, 0, SEEK_SET);
 }
 
-int howManyLines(FILE *duomf)
+int howManyLines(FILE *fp)
 {
     int lines = 0;
     char last = '\n';
     char c;
 
-    while(EOF != (c = fgetc(duomf)))
+    while(EOF != (c = fgetc(fp)))
     {
         if (c == '\n'  &&  last != '\n')
             lines++;
+
         last = c;
     }
+
     if (last != '\n')
         lines++;
-    rewind(duomf);
+        
+    rewind(fp);
+
     return lines;
 }
 
-void getRoute(char *townFrom, char *townTo)
+void getRoute(char *cityFrom, char *cityTo)
 {
-    printf("Iveskite isvykimo miesta: ");
-    scanf("%s", townFrom);
-    printf("Iveskite atvykimo miesta: ");
-    scanf("%s", townTo);
+    printf("Departure city: ");
+    scanf("%s", cityFrom);
+    printf("Arrive city: ");
+    scanf("%s", cityTo);
 }
 
-int addTown(char *town, char **towns, int v)
+void addCity(char *city, char **cities, int *vertices)
 {
     int isEqual = 1;
-    for(int i=0; i<v; i++)
+    for(int i=0; i<*vertices; i++)
     {
-        if(strcmp(towns[i], town)==0)
+        if(strcmp(cities[i], city)==0)
         {
             isEqual = 0;
             break;
@@ -63,102 +69,108 @@ int addTown(char *town, char **towns, int v)
 
     if(isEqual == 1)
     {
-        towns[v] = (char *)malloc(strlen(town) * sizeof(char));
-        for(int j = 0; j<strlen(town)+1; j++)
-            towns[v][j] = town[j];
-        v++;
+        cities[*vertices] = (char *)malloc(strlen(city) * sizeof(char));
+        for(int j = 0; j<strlen(city)+1; j++)
+            cities[*vertices][j] = city[j];
+        ++*vertices;
     }
-    return v;
 }
 
-int getVertices(FILE *duomf, char **towns, int n)
+int getVertices(FILE *fp, char **cities, int n)
 {
-    char town1[255], town2[255];
-    int v=0;
+    char city1[MAX_CITY_SIZE] = {0}, city2[MAX_CITY_SIZE] = {0};
+    int vertices=0;
 
     for(int i=0; i<n; i++)
     {
-        fscanf(duomf, "%s %s %*d", town1, town2);
-        v = addTown(town1, towns, v);
-        v = addTown(town2, towns, v);
+        fscanf(fp, "%[^\t]\t%[^\t]\t%*d\t\n", city1, city2);
+
+        addCity(city1, cities, &vertices);
+        addCity(city2, cities, &vertices);
+
+        memset(city1, 0, strlen(city1));
+        memset(city2, 0, strlen(city2));
     }
-    rewind(duomf);
-    return v;
+    rewind(fp);
+
+    return vertices;
 }
 
-int getIndex(char *town, char **towns, int v)
+int getIndex(char *city, char **cities, int vertices)
 {
-    for(int i=0; i<v; i++)
-        if(strcmp(towns[i], town)==0)
+    for(int i=0; i<vertices; i++)
+        if(strcmp(cities[i], city)==0)
             return i;
     return -1;
 }
 
-void makeGraph(FILE *duomf, int v, int (*graph)[v], char **towns, int n)
+void makeGraph(FILE *fp, int vertices, int (*graph)[vertices], char **cities, int n)
 {
-    for(int i = 0; i<v; i++)
-        for(int j = 0; j<v; j++)
-            graph[i][j] = 0;
-
-    char town1[255], town2[255];
-    int distance;
+    char city1[MAX_CITY_SIZE] = {0}, city2[MAX_CITY_SIZE] = {0};
+    int distance = 0;
 
     for(int i=0; i<n; i++)
     {
-        fscanf(duomf, "%s %s %d", town1, town2, &distance);
-        int index1 = getIndex(town1, towns, v);
-        int index2 = getIndex(town2, towns, v);
+        fscanf(fp, "%[^\t]\t%[^\t]\t%d\t\n", city1, city2, &distance);
+
+        int index1 = getIndex(city1, cities, vertices);
+        int index2 = getIndex(city2, cities, vertices);
+
         graph[index1][index2] = distance;
         graph[index2][index1] = distance;
+
+        memset(city1, 0, strlen(city1));
+        memset(city2, 0, strlen(city2));
     }
 }
 
-void printPath(char **towns, int *path, int destination)
+void printPath(char **cities, int *path, int destination)
 {
     if (path[destination]==-1)
-    {
         return;
-    }
-    printPath(towns, path, path[destination]);
-    printf("%s ", towns[destination]);
+
+    printPath(cities, path, path[destination]);
+    printf("%s ", cities[destination]);
 }
 
 int printDistance(int *distance, int *path, char **towns, int source, int destination, int v)
 {
     if(distance[destination]!=INT_MAX)
     {
-        printf("\nKeliones %s %s ilgis: %d\n", towns[source], towns[destination], distance[destination]);
-        printf("Keliones marsrutas: %s ", towns[source]);
+        printf("\nThe distance between %s-%s: %d\n", towns[source], towns[destination], distance[destination]);
+        printf("The route: %s ", towns[source]);
         printPath(towns, path, destination);
         printf("\n");
     }
     else
-        printf("Keliones marsrutas %s %s neegzistuoja :(\n", towns[source], towns[destination]);
+    {
+        printf("The route between %s-%s does not exist :(\n", towns[source], towns[destination]);
+    }
 }
 
 int minDistance(int distance[], int isVisited[], int v)
 {
-    int min = INT_MAX, minIndex;
+    int min = INT_MAX, minIndex = 0;
     for (int i=0; i < v; i++)
         if (isVisited[i] == 0 && distance[i] <= min)
             min = distance[i], minIndex = i;
     return minIndex;
 }
 
-void countVerticesWeight(int v, int (*graph)[v], char **towns, char *townFrom, char *townTo)
+void countVerticesWeight(int vertices, int (*graph)[vertices], char **cities, char *cityFrom, char *cityTo)
 {
-    int distance[v];
-    int isVisited[v];
-    int path[v];
-    int source = getIndex(townFrom, towns, v);
-    int destination = getIndex(townTo, towns, v);
+    int distance[vertices];
+    int isVisited[vertices];
+    int path[vertices];
+    int source = getIndex(cityFrom, cities, vertices);
+    int destination = getIndex(cityTo, cities, vertices);
     if(source == -1 || destination == -1)
     {
-        printf("Tokio miesto duomenu faile nera!\n");
+        printf("There is no such city in the data file!\n");
         exit(1);
     }
 
-    for (int i=0; i<v; i++)
+    for (int i=0; i<vertices; i++)
     {
         distance[i] = INT_MAX;
         isVisited[i] = 0;
@@ -167,12 +179,12 @@ void countVerticesWeight(int v, int (*graph)[v], char **towns, char *townFrom, c
     }
     distance[source] = 0;
 
-    for (int i=0; i<v; i++)
+    for (int i=0; i<vertices; i++)
     {
-        int index = minDistance(distance, isVisited, v);
+        int index = minDistance(distance, isVisited, vertices);
         isVisited[index] = 1;
 
-        for (int j = 0; j < v; j++)
+        for (int j = 0; j < vertices; j++)
         {
             if (isVisited[j] == 0 && graph[index][j]!=0 && distance[index] != INT_MAX && distance[index] + graph[index][j] < distance[j])
             {
@@ -180,29 +192,33 @@ void countVerticesWeight(int v, int (*graph)[v], char **towns, char *townFrom, c
                 distance[j] = distance[index] + graph[index][j];
             }
         }
+
         if(index == destination)
             break;
     }
-    printDistance(distance, path, towns, source, destination, v);
+    printDistance(distance, path, cities, source, destination, vertices);
 }
 
 int main(int argc, char *argv[])
 {
-    FILE *duomf = fopen(*(argv+1), "r");
-    fileExists(duomf);
-    isFileEmpty(duomf);
+    FILE *fp = fopen(*(argv+1), "r");
+    doesFileExists(fp);
+    isFileEmpty(fp);
 
-    int n = howManyLines(duomf);
-    char **towns = (char **)malloc((n+n) * sizeof(char *));
-    int v = getVertices(duomf, towns, n);
+    int n = howManyLines(fp);
+    char cities = (char **)calloc(n+n, sizeof(char *));
+    int v = getVertices(fp, cities, n);
     int graph[v][v];
-    char townFrom[255], townTo[255];
-    makeGraph(duomf, v, graph, towns, n);
-    fclose(duomf);
+    memset(graph, 0, sizeof(graph[0][0]) * v * v);
+    char cityFrom[MAX_CITY_SIZE], cityTo[MAX_CITY_SIZE];
 
-    getRoute(townFrom, townTo);
-    countVerticesWeight(v, graph, towns, townFrom, townTo);
-    free(towns);
+    makeGraph(fp, v, graph, cities, n);
+    fclose(fp);
+
+    getRoute(cityFrom, cityTo);
+    countVerticesWeight(v, graph, cities, cityFrom, cityTo);
+
+    free(cities);
 
     return 0;
 }
