@@ -1,0 +1,2626 @@
+Alytus	Anykščiai	177
+Alytus	Birštonas	38
+Alytus	Biržai		243
+Alytus	Druskininkai	57
+Alytus	Eišiškės	81
+Alytus	Elektrėnai	81
+Alytus	Gargždai	261
+Alytus	Ignalina	212
+Alytus	Jonava		99
+Alytus	Joniškis	247
+Alytus	Jurbarkas	144
+Alytus	Kaišiadorys	71
+Alytus	Kalvarija	58
+Alytus	Kaunas		66
+Alytus	Kazlų Rūda	72
+Alytus	Kėdainiai	119
+Alytus	Kelmė		194
+Alytus	Klaipėda	280
+Alytus	Kretinga	284
+Alytus	Kupiškis	216
+Alytus	Kuršėnai	241
+Alytus	Lazdijai	45
+Alytus	Marijampolė	61
+Alytus	Mažeikiai	293
+Alytus	Molėtai		166
+Alytus	N.Akmenė	267
+Alytus	Pagėgiai	204
+Alytus	Pakruojis	217
+Alytus	Palanga		301
+Alytus	Panevėžys	171
+Alytus	Pasvalys	217
+Alytus	Plungė		256
+Alytus	Prienai		34
+Alytus	Radviliškis	189
+Alytus	Raseiniai	148
+Alytus	Rietavas	233
+Alytus	Rokiškis	239
+Alytus	Skuodas		306
+Alytus	Šakiai		120
+Alytus	Šalčininkai	108
+Alytus	Šiauliai	211
+Alytus	Šilalė		209
+Alytus	Šilutė		242
+Alytus	Širvintos	125
+Alytus	Švenčionys	186
+Alytus	Tauragė		186
+Alytus	Telšiai		256
+Alytus	Trakai		75
+Alytus	Ukmergė		137
+Alytus	Utena		200
+Alytus	Varėna		49
+Alytus	Vilkaviškis	88
+Alytus	Vilnius		102
+Alytus	Visaginas	254
+Alytus	Zarasai		249
+Alytus	Buknaičių PKP	304
+Alytus	Būtingės PKP	319
+Alytus	Kalvarijos PKP	71
+Alytus	Kalvių PKP	262
+Alytus	Kybartų PKP	103
+Alytus	Lavoriškių PKP	135
+Alytus	Lazdijų PKP	52
+Alytus	Medininkų PKP	133
+Alytus	Nidos PKP	328
+Alytus	Obelių PKP	258
+Alytus	Panemunės PKP	205
+Alytus	Raigardo PKP	63
+Alytus	Ramoniškių PKP	156
+Alytus	Šalčininkų PKP	113
+Alytus	Saločių PKP	243
+Alytus	Skuodo PKP	309
+Alytus	Smėlynės PKP	253
+Anykščiai	Birštonas	156
+Anykščiai	Biržai		98
+Anykščiai	Druskininkai	226
+Anykščiai	Eišiškės	179
+Anykščiai	Elektrėnai	114
+Anykščiai	Gargždai	278
+Anykščiai	Ignalina	89
+Anykščiai	Jonava		77
+Anykščiai	Joniškis	155
+Anykščiai	Jurbarkas	195
+Anykščiai	Kaišiadorys	111
+Anykščiai	Kalvarija	194
+Anykščiai	Kaunas		109
+Anykščiai	Kazlų Rūda	158
+Anykščiai	Kėdainiai	97
+Anykščiai	Kelmė		166
+Anykščiai	Klaipėda	297
+Anykščiai	Kretinga	279
+Anykščiai	Kupiškis	47
+Anykščiai	Kuršėnai	169
+Anykščiai	Lazdijai	221
+Anykščiai	Marijampolė	177
+Anykščiai	Mažeikiai	224
+Anykščiai	Molėtai		43
+Anykščiai	N.Akmenė	193
+Anykščiai	Pagėgiai	255
+Anykščiai	Pakruojis	107
+Anykščiai	Palanga		290
+Anykščiai	Panevėžys	58
+Anykščiai	Pasvalys	101
+Anykščiai	Plungė		240
+Anykščiai	Prienai		148
+Anykščiai	Radviliškis	115
+Anykščiai	Raseiniai	167
+Anykščiai	Rietavas	250
+Anykščiai	Rokiškis	62
+Anykščiai	Skuodas		277
+Anykščiai	Šakiai		171
+Anykščiai	Šalčininkai	152
+Anykščiai	Šiauliai	137
+Anykščiai	Šilalė		226
+Anykščiai	Šilutė		282
+Anykščiai	Širvintos	65
+Anykščiai	Švenčionys	104
+Anykščiai	Tauragė		225
+Anykščiai	Telšiai		216
+Anykščiai	Trakai		119
+Anykščiai	Ukmergė		40
+Anykščiai	Utena		39
+Anykščiai	Varėna		192
+Anykščiai	Vilkaviškis	188
+Anykščiai	Vilnius		108
+Anykščiai	Visaginas	112
+Anykščiai	Zarasai		88
+Anykščiai	Buknaičių PKP	235
+Anykščiai	Būtingės PKP	308
+Anykščiai	Kalvarijos PKP	206
+Anykščiai	Kalvių PKP	169
+Anykščiai	Kybartų PKP	208
+Anykščiai	Lavoriškių PKP	140
+Anykščiai	Lazdijų PKP	228
+Anykščiai	Medininkų PKP	142
+Anykščiai	Nidos PKP	345
+Anykščiai	Obelių PKP	81
+Anykščiai	Panemunės PKP	256
+Anykščiai	Raigardo PKP	232
+Anykščiai	Ramoniškių PKP	208
+Anykščiai	Šalčininkų PKP	157
+Anykščiai	Saločių PKP	127
+Anykščiai	Skuodo PKP	280
+Anykščiai	Smėlynės PKP	92
+Birštonas	Biržai		218
+Birštonas	Druskininkai	88
+Birštonas	Eišiškės	112
+Birštonas	Elektrėnai	68
+Birštonas	Gargždai	237
+Birštonas	Ignalina	202
+Birštonas	Jonava		78
+Birštonas	Joniškis	223
+Birštonas	Jurbarkas	120
+Birštonas	Kaišiadorys	59
+Birštonas	Kalvarija	73
+Birštonas	Kaunas		41
+Birštonas	Kazlų Rūda	47
+Birštonas	Kėdainiai	94
+Birštonas	Kelmė		169
+Birštonas	Klaipėda	255
+Birštonas	Kretinga	260
+Birštonas	Kupiškis	191
+Birštonas	Kuršėnai	216
+Birštonas	Lazdijai	80
+Birštonas	Marijampolė	48
+Birštonas	Mažeikiai	268
+Birštonas	Molėtai		155
+Birštonas	N.Akmenė	243
+Birštonas	Pagėgiai	180
+Birštonas	Pakruojis	193
+Birštonas	Palanga		276
+Birštonas	Panevėžys	146
+Birštonas	Pasvalys	192
+Birštonas	Plungė		231
+Birštonas	Prienai		7
+Birštonas	Radviliškis	164
+Birštonas	Raseiniai	123
+Birštonas	Rietavas	209
+Birštonas	Rokiškis	218
+Birštonas	Skuodas		281
+Birštonas	Šakiai		95
+Birštonas	Šalčininkai	127
+Birštonas	Šiauliai	186
+Birštonas	Šilalė		184
+Birštonas	Šilutė		218
+Birštonas	Širvintos	113
+Birštonas	Švenčionys	177
+Birštonas	Tauragė		162
+Birštonas	Telšiai		232
+Birštonas	Trakai		66
+Birštonas	Ukmergė		115
+Birštonas	Utena		179
+Birštonas	Varėna		79
+Birštonas	Vilkaviškis	75
+Birštonas	Vilnius		92
+Birštonas	Visaginas	245
+Birštonas	Zarasai		228
+Birštonas	Buknaičių PKP	280
+Birštonas	Būtingės PKP	294
+Birštonas	Kalvarijos PKP	85
+Birštonas	Kalvių PKP	237
+Birštonas	Kybartų PKP	90
+Birštonas	Lavoriškių PKP	125
+Birštonas	Lazdijų PKP	87
+Birštonas	Medininkų PKP	124
+Birštonas	Nidos PKP	303
+Birštonas	Obelių PKP	236
+Birštonas	Panemunės PKP	181
+Birštonas	Raigardo PKP	94
+Birštonas	Ramoniškių PKP	132
+Birštonas	Šalčininkų PKP	131
+Birštonas	Saločių PKP	218
+Birštonas	Skuodo PKP	284
+Birštonas	Smėlynės PKP	232
+Biržai	Druskininkai	295
+Biržai	Eišiškės	274
+Biržai	Elektrėnai	209
+Biržai	Gargždai	242
+Biržai	Ignalina	158
+Biržai	Jonava		155
+Biržai	Joniškis	94
+Biržai	Jurbarkas	208
+Biržai	Kaišiadorys	194
+Biržai	Kalvarija	257
+Biržai	Kaunas		178
+Biržai	Kazlų Rūda	220
+Biržai	Kėdainiai	125
+Biržai	Kelmė		151
+Biržai	Klaipėda	261
+Biržai	Kretinga	239
+Biržai	Kupiškis	51
+Biržai	Kuršėnai	128
+Biržai	Lazdijai	283
+Biržai	Marijampolė	240
+Biržai	Mažeikiai	183
+Biržai	Molėtai		140
+Biržai	N.Akmenė	150
+Biržai	Pagėgiai	240
+Biržai	Pakruojis	65
+Biržai	Palanga		249
+Biržai	Panevėžys	66
+Biržai	Pasvalys	29
+Biržai	Plungė		199
+Biržai	Prienai		211
+Biržai	Radviliškis	93
+Biržai	Raseiniai	159
+Biržai	Rietavas	222
+Biržai	Rokiškis	65
+Biržai	Skuodas		236
+Biržai	Šakiai		234
+Biržai	Šalčininkai	247
+Biržai	Šiauliai	101
+Biržai	Šilalė		209
+Biržai	Šilutė		265
+Biržai	Širvintos	161
+Biržai	Švenčionys	174
+Biržai	Tauragė	210
+Biržai	Telšiai		175
+Biržai	Trakai		215
+Biržai	Ukmergė		136
+Biržai	Utena		109
+Biržai	Varėna		287
+Biržai	Vilkaviškis	250
+Biržai	Vilnius		202
+Biržai	Visaginas	161
+Biržai	Zarasai		123
+Biržai	Buknaičių PKP	194
+Biržai	Būtingės PKP	267
+Biržai	Kalvarijos PKP	269
+Biržai	Kalvių PKP	108
+Biržai	Kybartų PKP	270
+Biržai	Lavoriškių PKP	235
+Biržai	Lazdijų PKP	291
+Biržai	Medininkų PKP	236
+Biržai	Nidos PKP	309
+Biržai	Obelių PKP	91
+Biržai	Panemunės PKP	241
+Biržai	Raigardo PKP	305
+Biržai	Ramoniškių PKP	224
+Biržai	Šalčininkų PKP	252
+Biržai	Saločių PKP	40
+Biržai	Skuodo PKP	239
+Biržai	Smėlynės PKP	127
+Druskininkai	Eišiškės	90
+Druskininkai	Elektrėnai	130
+Druskininkai	Gargždai	305
+Druskininkai	Ignalina	238
+Druskininkai	Jonava		149
+Druskininkai	Joniškis	300
+Druskininkai	Jurbarkas	171
+Druskininkai	Kaišiadorys	121
+Druskininkai	Kalvarija	78
+Druskininkai	Kaunas		118
+Druskininkai	Kazlų Rūda	121
+Druskininkai	Kėdainiai	171
+Druskininkai	Kelmė		246
+Druskininkai	Klaipėda	320
+Druskininkai	Kretinga	328
+Druskininkai	Kupiškis	268
+Druskininkai	Kuršėnai	290
+Druskininkai	Lazdijai	47
+Druskininkai	Marijampolė	88
+Druskininkai	Mažeikiai	343
+Druskininkai	Molėtai		193
+Druskininkai	N.Akmenė	320
+Druskininkai	Pagėgiai	231
+Druskininkai	Pakruojis	270
+Druskininkai	Palanga		341
+Druskininkai	Panevėžys	223
+Druskininkai	Pasvalys	269
+Druskininkai	Plungė		299
+Druskininkai	Prienai		86
+Druskininkai	Radviliškis	241
+Druskininkai	Raseiniai	200
+Druskininkai	Rietavas	277
+Druskininkai	Rokiškis	289
+Druskininkai	Skuodas		349
+Druskininkai	Šakiai		147
+Druskininkai	Šalčininkai	121
+Druskininkai	Šiauliai	263
+Druskininkai	Šilalė		243
+Druskininkai	Šilutė		269
+Druskininkai	Širvintos	175
+Druskininkai	Švenčionys	213
+Druskininkai	Tauragė		213
+Druskininkai	Telšiai		306
+Druskininkai	Trakai		123
+Druskininkai	Ukmergė		186
+Druskininkai	Utena		238
+Druskininkai	Varėna		58
+Druskininkai	Vilkaviškis	115
+Druskininkai	Vilnius		128
+Druskininkai	Visaginas	281
+Druskininkai	Zarasai		287
+Druskininkai	Buknaičių PKP	354
+Druskininkai	Būtingės PKP	359
+Druskininkai	Kalvarijos PKP	91
+Druskininkai	Kalvių PKP	314
+Druskininkai	Kybartų PKP	130
+Druskininkai	Lavoriškių PKP	161
+Druskininkai	Lazdijų PKP	54
+Druskininkai	Medininkų PKP	159
+Druskininkai	Nidos PKP	368
+Druskininkai	Obelių PKP	307
+Druskininkai	Panemunės PKP	232
+Druskininkai	Raigardo PKP	9
+Druskininkai	Ramoniškių PKP	183
+Druskininkai	Šalčininkų PKP	124
+Druskininkai	Saločių PKP	295
+Druskininkai	Skuodo PKP	352
+Druskininkai	Smėlynės PKP	291
+Eišiškės	Elektrėnai	97
+Eišiškės	Gargždai	340
+Eišiškės	Ignalina	181
+Eišiškės	Jonava		148
+Eišiškės	Joniškis	302
+Eišiškės	Jurbarkas	225
+Eišiškės	Kaišiadorys	118
+Eišiškės	Kalvarija	139
+Eišiškės	Kaunas		146
+Eišiškės	Kazlų Rūda	152
+Eišiškės	Kėdainiai	183
+Eišiškės	Kelmė		272
+Eišiškės	Klaipėda	358
+Eišiškės	Kretinga	363
+Eišiškės	Kupiškis	222
+Eišiškės	Kuršėnai	307
+Eišiškės	Lazdijai	121
+Eišiškės	Marijampolė	142
+Eišiškės	Mažeikiai	362
+Eišiškės	Molėtai		135
+Eišiškės	N.Akmenė	331
+Eišiškės	Pagėgiai	285
+Eišiškės	Pakruojis	255
+Eišiškės	Palanga		379
+Eišiškės	Panevėžys	207
+Eišiškės	Pasvalys	253
+Eišiškės	Plungė		334
+Eišiškės	Prienai		114
+Eišiškės	Radviliškis	253
+Eišiškės	Raseiniai	226
+Eišiškės	Rietavas	312
+Eišiškės	Rokiškis	230
+Eišiškės	Skuodas		384
+Eišiškės	Šakiai		201
+Eišiškės	Šalčininkai	35
+Eišiškės	Šiauliai	275
+Eišiškės	Šilalė		287
+Eišiškės	Šilutė		323
+Eišiškės	Širvintos	122
+Eišiškės	Švenčionys	156
+Eišiškės	Tauragė		267
+Eišiškės	Telšiai		335
+Eišiškės	Trakai		66
+Eišiškės	Ukmergė		144
+Eišiškės	Utena		168
+Eišiškės	Varėna		32
+Eišiškės	Vilkaviškis	169
+Eišiškės	Vilnius		71
+Eišiškės	Visaginas	223
+Eišiškės	Zarasai		217
+Eišiškės	Buknaičių PKP	373
+Eišiškės	Būtingės PKP	397
+Eišiškės	Kalvarijos PKP	151
+Eišiškės	Kalvių PKP	317
+Eišiškės	Kybartų PKP	184
+Eišiškės	Lavoriškių PKP	104
+Eišiškės	Lazdijų PKP	128
+Eišiškės	Medininkų PKP	97
+Eišiškės	Nidos PKP	406
+Eišiškės	Obelių PKP	249
+Eišiškės	Panemunės PKP	286
+Eišiškės	Raigardo PKP	96
+Eišiškės	Ramoniškių PKP	237
+Eišiškės	Šalčininkų PKP	37
+Eišiškės	Saločių PKP	279
+Eišiškės	Skuodo PKP	387
+Eišiškės	Smėlynės PKP	221
+Elektrėnai	Gargždai	245
+Elektrėnai	Ignalina	151
+Elektrėnai	Jonava		54
+Elektrėnai	Joniškis	217
+Elektrėnai	Jurbarkas	140
+Elektrėnai	Kaišiadorys	23
+Elektrėnai	Kalvarija	138
+Elektrėnai	Kaunas		54
+Elektrėnai	Kazlų Rūda	103
+Elektrėnai	Kėdainiai	89
+Elektrėnai	Kelmė		178
+Elektrėnai	Klaipėda	264
+Elektrėnai	Kretinga	268
+Elektrėnai	Kupiškis	159
+Elektrėnai	Kuršėnai	213
+Elektrėnai	Lazdijai	125
+Elektrėnai	Marijampolė	113
+Elektrėnai	Mažeikiai	267
+Elektrėnai	Molėtai		97
+Elektrėnai	N.Akmenė	237
+Elektrėnai	Pagėgiai	200
+Elektrėnai	Pakruojis	184
+Elektrėnai	Palanga		284
+Elektrėnai	Panevėžys	137
+Elektrėnai	Pasvalys	182
+Elektrėnai	Plungė		239
+Elektrėnai	Prienai		73
+Elektrėnai	Radviliškis	158
+Elektrėnai	Raseiniai	132
+Elektrėnai	Rietavas	217
+Elektrėnai	Rokiškis	177
+Elektrėnai	Skuodas		290
+Elektrėnai	Šakiai		116
+Elektrėnai	Šalčininkai	86
+Elektrėnai	Šiauliai	180
+Elektrėnai	Šilalė		193
+Elektrėnai	Šilutė		238
+Elektrėnai	Širvintos	54
+Elektrėnai	Švenčionys	129
+Elektrėnai	Tauragė		182
+Elektrėnai	Telšiai		240
+Elektrėnai	Trakai		31
+Elektrėnai	Ukmergė		76
+Elektrėnai	Utena		130
+Elektrėnai	Varėna		110
+Elektrėnai	Vilkaviškis	133
+Elektrėnai	Vilnius		49
+Elektrėnai	Visaginas	193
+Elektrėnai	Zarasai		178
+Elektrėnai	Buknaičių PKP	278
+Elektrėnai	Būtingės PKP	302
+Elektrėnai	Kalvarijos PKP	151
+Elektrėnai	Kalvių PKP	231
+Elektrėnai	Kybartų PKP	153
+Elektrėnai	Lavoriškių PKP	83
+Elektrėnai	Lazdijų PKP	133
+Elektrėnai	Medininkų PKP	83
+Elektrėnai	Nidos PKP	312
+Elektrėnai	Obelių PKP	195
+Elektrėnai	Panemunės PKP	201
+Elektrėnai	Raigardo PKP	136
+Elektrėnai	Ramoniškių PKP	153
+Elektrėnai	Šalčininkų PKP	91
+Elektrėnai	Saločių PKP	208
+Elektrėnai	Skuodo PKP	293
+Elektrėnai	Smėlynės PKP	183
+Gargždai	Ignalina	346
+Gargždai	Jonava		218
+Gargždai	Joniškis	177
+Gargždai	Jurbarkas	134
+Gargždai	Kaišiadorys	235
+Gargždai	Kalvarija	234
+Gargždai	Kaunas		196
+Gargždai	Kazlų Rūda	202
+Gargždai	Kėdainiai	189
+Gargždai	Kelmė		113
+Gargždai	Klaipėda	18
+Gargždai	Kretinga	25
+Gargždai	Kupiškis	265
+Gargždai	Kuršėnai	114
+Gargždai	Lazdijai	265
+Gargždai	Marijampolė	217
+Gargždai	Mažeikiai	101
+Gargždai	Molėtai		289
+Gargždai	N.Akmenė	140
+Gargždai	Pagėgiai	95
+Gargždai	Pakruojis	182
+Gargždai	Palanga		36
+Gargždai	Panevėžys	220
+Gargždai	Pasvalys	214
+Gargždai	Plungė		43
+Gargždai	Prienai		230
+Gargždai	Radviliškis	168
+Gargždai	Raseiniai	124
+Gargždai	Rietavas	36
+Gargždai	Rokiškis	307
+Gargždai	Skuodas		77
+Gargždai	Šakiai		163
+Gargždai	Šalčininkai	331
+Gargždai	Šiauliai	140
+Gargždai	Šilalė		62
+Gargždai	Šilutė		59
+Gargždai	Širvintos	272
+Gargždai	Švenčionys	351
+Gargždai	Tauragė		92
+Gargždai	Telšiai		73
+Gargždai	Trakai		274
+Gargždai	Ukmergė		246
+Gargždai	Utena		309
+Gargždai	Varėna		310
+Gargždai	Vilkaviškis	206
+Gargždai	Vilnius		288
+Gargždai	Visaginas	382
+Gargždai	Zarasai		358
+Gargždai	Buknaičių PKP	112
+Gargždai	Būtingės PKP	54
+Gargždai	Kalvarijos PKP	246
+Gargždai	Kalvių PKP	191
+Gargždai	Kybartų PKP	226
+Gargždai	Lavoriškių PKP	326
+Gargždai	Lazdijų PKP	274
+Gargždai	Medininkų PKP	326
+Gargždai	Nidos PKP	66
+Gargždai	Obelių PKP	329
+Gargždai	Panemunės PKP	103
+Gargždai	Raigardo PKP	314
+Gargždai	Ramoniškių PKP	149
+Gargždai	Šalčininkų PKP	334
+Gargždai	Saločių PKP	242
+Gargždai	Skuodo PKP	80
+Gargždai	Smėlynės PKP	362
+Ignalina	Jonava		137
+Ignalina	Joniškis	228
+Ignalina	Jurbarkas	255
+Ignalina	Kaišiadorys	171
+Ignalina	Kalvarija	254
+Ignalina	Kaunas		169
+Ignalina	Kazlų Rūda	217
+Ignalina	Kėdainiai	157
+Ignalina	Kelmė		254
+Ignalina	Klaipėda	365
+Ignalina	Kretinga	368
+Ignalina	Kupiškis	107
+Ignalina	Kuršėnai	258
+Ignalina	Lazdijai	256
+Ignalina	Marijampolė	237
+Ignalina	Mažeikiai	312
+Ignalina	Molėtai		56
+Ignalina	N.Akmenė	282
+Ignalina	Pagėgiai	315
+Ignalina	Pakruojis	196
+Ignalina	Palanga		379
+Ignalina	Panevėžys	147
+Ignalina	Pasvalys	161
+Ignalina	Plungė		329
+Ignalina	Prienai		207
+Ignalina	Radviliškis	203
+Ignalina	Raseiniai	232
+Ignalina	Rietavas	318
+Ignalina	Rokiškis	114
+Ignalina	Skuodas		366
+Ignalina	Šakiai		231
+Ignalina	Šalčininkai	155
+Ignalina	Šiauliai	226
+Ignalina	Šilalė		293
+Ignalina	Šilutė		349
+Ignalina	Širvintos	120
+Ignalina	Švenčionys	25
+Ignalina	Tauragė		293
+Ignalina	Telšiai		304
+Ignalina	Trakai		136
+Ignalina	Ukmergė		100
+Ignalina	Utena		52
+Ignalina	Varėna		194
+Ignalina	Vilkaviškis	247
+Ignalina	Vilnius		110
+Ignalina	Visaginas	42
+Ignalina	Zarasai		54
+Ignalina	Buknaičių PKP	323
+Ignalina	Būtingės PKP	397
+Ignalina	Kalvarijos PKP	266
+Ignalina	Kalvių PKP	242
+Ignalina	Kybartų PKP	267
+Ignalina	Lavoriškių PKP	134
+Ignalina	Lazdijų PKP	264
+Ignalina	Medininkų PKP	140
+Ignalina	Nidos PKP	412
+Ignalina	Obelių PKP	104
+Ignalina	Panemunės PKP	316
+Ignalina	Raigardo PKP	244
+Ignalina	Ramoniškių PKP	267
+Ignalina	Šalčininkų PKP	159
+Ignalina	Saločių PKP	187
+Ignalina	Skuodo PKP	369
+Ignalina	Smėlynės PKP	58
+Jonava	Joniškis	163
+Jonava	Jurbarkas	118
+Jonava	Kaišiadorys	39
+Jonava	Kalvarija	116
+Jonava	Kaunas		32
+Jonava	Kazlų Rūda	80
+Jonava	Kėdainiai	35
+Jonava	Kelmė		151
+Jonava	Klaipėda	237
+Jonava	Kretinga	242
+Jonava	Kupiškis	122
+Jonava	Kuršėnai	159
+Jonava	Lazdijai	143
+Jonava	Marijampolė	100
+Jonava	Mažeikiai	213
+Jonava	Molėtai		81
+Jonava	N.Akmenė	183
+Jonava	Pagėgiai	177
+Jonava	Pakruojis	130
+Jonava	Palanga		258
+Jonava	Panevėžys	83
+Jonava	Pasvalys	128
+Jonava	Plungė		213
+Jonava	Prienai		71
+Jonava	Radviliškis	104
+Jonava	Raseiniai	105
+Jonava	Rietavas	190
+Jonava	Rokiškis	140
+Jonava	Skuodas		263
+Jonava	Šakiai		94
+Jonava	Šalčininkai	138
+Jonava	Šiauliai	126
+Jonava	Šilalė		166
+Jonava	Šilutė		216
+Jonava	Širvintos	63
+Jonava	Švenčionys	143
+Jonava	Tauragė		159
+Jonava	Telšiai		205
+Jonava	Trakai		83
+Jonava	Ukmergė		37
+Jonava	Utena		100
+Jonava	Varėna		140
+Jonava	Vilkaviškis	110
+Jonava	Vilnius		101
+Jonava	Visaginas	173
+Jonava	Zarasai		149
+Jonava	Buknaičių PKP	224
+Jonava	Būtingės PKP	276
+Jonava	Kalvarijos PKP	129
+Jonava	Kalvių PKP	178
+Jonava	Kybartų PKP	130
+Jonava	Lavoriškių PKP	134
+Jonava	Lazdijų PKP	150
+Jonava	Medininkų PKP	135
+Jonava	Nidos PKP	285
+Jonava	Obelių PKP	158
+Jonava	Panemunės PKP	179
+Jonava	Raigardo PKP	155
+Jonava	Ramoniškių PKP	130
+Jonava	Šalčininkų PKP	143
+Jonava	Saločių PKP	155
+Jonava	Skuodo PKP	266
+Jonava	Smėlynės PKP	153
+Joniškis	Jurbarkas	161
+Joniškis	Kaišiadorys	202
+Joniškis	Kalvarija	261
+Joniškis	Kaunas		182
+Joniškis	Kazlų Rūda	225
+Joniškis	Kėdainiai	134
+Joniškis	Kelmė		86
+Joniškis	Klaipėda	195
+Joniškis	Kretinga	173
+Joniškis	Kupiškis	121
+Joniškis	Kuršėnai	63
+Joniškis	Lazdijai	288
+Joniškis	Marijampolė	244
+Joniškis	Mažeikiai	97
+Joniškis	Molėtai		198
+Joniškis	N.Akmenė	56
+Joniškis	Pagėgiai	174
+Joniškis	Pakruojis	48
+Joniškis	Palanga		184
+Joniškis	Panevėžys	97
+Joniškis	Pasvalys	66
+Joniškis	Plungė		134
+Joniškis	Prienai		216
+Joniškis	Radviliškis	59
+Joniškis	Raseiniai	126
+Joniškis	Rietavas	156
+Joniškis	Rokiškis	159
+Joniškis	Skuodas		151
+Joniškis	Šakiai		190
+Joniškis	Šalčininkai	276
+Joniškis	Šiauliai	39
+Joniškis	Šilalė		144
+Joniškis	Šilutė		200
+Joniškis	Širvintos	185
+Joniškis	Švenčionys	243
+Joniškis	Tauragė		144
+Joniškis	Telšiai		109
+Joniškis	Trakai		239
+Joniškis	Ukmergė		159
+Joniškis	Utena		178
+Joniškis	Varėna		296
+Joniškis	Vilkaviškis	233
+Joniškis	Vilnius		231
+Joniškis	Visaginas	250
+Joniškis	Zarasai		216
+Joniškis	Buknaičių PKP	108
+Joniškis	Būtingės PKP	202
+Joniškis	Kalvarijos PKP	273
+Joniškis	Kalvių PKP	15
+Joniškis	Kybartų PKP	253
+Joniškis	Lavoriškių PKP	264
+Joniškis	Lazdijų PKP	295
+Joniškis	Medininkų PKP	265
+Joniškis	Nidos PKP	243
+Joniškis	Obelių PKP	184
+Joniškis	Panemunės PKP	175
+Joniškis	Raigardo PKP	309
+Joniškis	Ramoniškių PKP	176
+Joniškis	Šalčininkų PKP	280
+Joniškis	Saločių PKP	93
+Joniškis	Skuodo PKP	154
+Joniškis	Smėlynės PKP	220
+Jurbarkas	Kaišiadorys	131
+Jurbarkas	Kalvarija	100
+Jurbarkas	Kaunas		86
+Jurbarkas	Kazlų Rūda	69
+Jurbarkas	Kėdainiai	114
+Jurbarkas	Kelmė		76
+Jurbarkas	Klaipėda	149
+Jurbarkas	Kretinga	157
+Jurbarkas	Kupiškis	203
+Jurbarkas	Kuršėnai	119
+Jurbarkas	Lazdijai	131
+Jurbarkas	Marijampolė	83
+Jurbarkas	Mažeikiai	172
+Jurbarkas	Molėtai		199
+Jurbarkas	N.Akmenė	171
+Jurbarkas	Pagėgiai	60
+Jurbarkas	Pakruojis	148
+Jurbarkas	Palanga		170
+Jurbarkas	Panevėžys	158
+Jurbarkas	Pasvalys	179
+Jurbarkas	Plungė		128
+Jurbarkas	Prienai		113
+Jurbarkas	Radviliškis	115
+Jurbarkas	Raseiniai	49
+Jurbarkas	Rietavas	106
+Jurbarkas	Rokiškis	247
+Jurbarkas	Skuodas		178
+Jurbarkas	Šakiai		29
+Jurbarkas	Šalčininkai	224
+Jurbarkas	Šiauliai	118
+Jurbarkas	Šilalė		72
+Jurbarkas	Šilutė		98
+Jurbarkas	Širvintos	181
+Jurbarkas	Švenčionys	261
+Jurbarkas	Tauragė		42
+Jurbarkas	Telšiai		135
+Jurbarkas	Trakai		169
+Jurbarkas	Ukmergė		155
+Jurbarkas	Utena		218
+Jurbarkas	Varėna		193
+Jurbarkas	Vilkaviškis	72
+Jurbarkas	Vilnius		188
+Jurbarkas	Visaginas	291
+Jurbarkas	Zarasai		267
+Jurbarkas	Buknaičių PKP	183
+Jurbarkas	Būtingės PKP	188
+Jurbarkas	Kalvarijos PKP	113
+Jurbarkas	Kalvių PKP	175
+Jurbarkas	Kybartų PKP	92
+Jurbarkas	Lavoriškių PKP	221
+Jurbarkas	Lazdijų PKP	141
+Jurbarkas	Medininkų PKP	221
+Jurbarkas	Nidos PKP	197
+Jurbarkas	Obelių PKP	267
+Jurbarkas	Panemunės PKP	61
+Jurbarkas	Raigardo PKP	180
+Jurbarkas	Ramoniškių PKP	15
+Jurbarkas	Šalčininkų PKP	229
+Jurbarkas	Saločių PKP	208
+Jurbarkas	Skuodo PKP	181
+Jurbarkas	Smėlynės PKP	271
+Kaišiadorys	Kalvarija	129
+Kaišiadorys	Kaunas		45
+Kaišiadorys	Kazlų Rūda	93
+Kaišiadorys	Kėdainiai	74
+Kaišiadorys	Kelmė		168
+Kaišiadorys	Klaipėda	254
+Kaišiadorys	Kretinga	259
+Kaišiadorys	Kupiškis	156
+Kaišiadorys	Kuršėnai	198
+Kaišiadorys	Lazdijai	116
+Kaišiadorys	Marijampolė	104
+Kaišiadorys	Mažeikiai	252
+Kaišiadorys	Molėtai		115
+Kaišiadorys	N.Akmenė	222
+Kaišiadorys	Pagėgiai	191
+Kaišiadorys	Pakruojis	170
+Kaišiadorys	Palanga		275
+Kaišiadorys	Panevėžys	122
+Kaišiadorys	Pasvalys	168
+Kaišiadorys	Plungė		230
+Kaišiadorys	Prienai		63
+Kaišiadorys	Radviliškis	143
+Kaišiadorys	Raseiniai	122
+Kaišiadorys	Rietavas	207
+Kaišiadorys	Rokiškis	174
+Kaišiadorys	Skuodas		280
+Kaišiadorys	Šakiai		107
+Kaišiadorys	Šalčininkai	107
+Kaišiadorys	Šiauliai	166
+Kaišiadorys	Šilalė		183
+Kaišiadorys	Šilutė		229
+Kaišiadorys	Širvintos	76
+Kaišiadorys	Švenčionys	150
+Kaišiadorys	Tauragė		172
+Kaišiadorys	Telšiai		230
+Kaišiadorys	Trakai		52
+Kaišiadorys	Ukmergė		71
+Kaišiadorys	Utena		134
+Kaišiadorys	Varėna		112
+Kaišiadorys	Vilkaviškis	123
+Kaišiadorys	Vilnius		71
+Kaišiadorys	Visaginas	207
+Kaišiadorys	Zarasai		183
+Kaišiadorys	Buknaičių PKP	263
+Kaišiadorys	Būtingės PKP	293
+Kaišiadorys	Kalvarijos PKP	141
+Kaišiadorys	Kalvių PKP	217
+Kaišiadorys	Kybartų PKP	143
+Kaišiadorys	Lavoriškių PKP	104
+Kaišiadorys	Lazdijų PKP	123
+Kaišiadorys	Medininkų PKP	104
+Kaišiadorys	Nidos PKP	302
+Kaišiadorys	Obelių PKP	192
+Kaišiadorys	Panemunės PKP	192
+Kaišiadorys	Raigardo PKP	127
+Kaišiadorys	Ramoniškių PKP	143
+Kaišiadorys	Šalčininkų PKP	112
+Kaišiadorys	Saločių PKP	194
+Kaišiadorys	Skuodo PKP	283
+Kaišiadorys	Smėlynės PKP	187
+Kalvarija	Kaunas		79
+Kalvarija	Kazlų Rūda	50
+Kalvarija	Kėdainiai	133
+Kalvarija	Kelmė		176
+Kalvarija	Klaipėda	249
+Kalvarija	Kretinga	257
+Kalvarija	Kupiškis	230
+Kalvarija	Kuršėnai	219
+Kalvarija	Lazdijai	31
+Kalvarija	Marijampolė	25
+Kalvarija	Mažeikiai	272
+Kalvarija	Molėtai		197
+Kalvarija	N.Akmenė	271
+Kalvarija	Pagėgiai	160
+Kalvarija	Pakruojis	231
+Kalvarija	Palanga		270
+Kalvarija	Panevėžys	185
+Kalvarija	Pasvalys	230
+Kalvarija	Plungė		228
+Kalvarija	Prienai		67
+Kalvarija	Radviliškis	202
+Kalvarija	Raseiniai	149
+Kalvarija	Rietavas	206
+Kalvarija	Rokiškis	256
+Kalvarija	Skuodas		278
+Kalvarija	Šakiai		76
+Kalvarija	Šalčininkai	166
+Kalvarija	Šiauliai	218
+Kalvarija	Šilalė		172
+Kalvarija	Šilutė		198
+Kalvarija	Širvintos	180
+Kalvarija	Švenčionys	244
+Kalvarija	Tauragė		142
+Kalvarija	Telšiai		235
+Kalvarija	Trakai		133
+Kalvarija	Ukmergė		154
+Kalvarija	Utena		217
+Kalvarija	Varėna		106
+Kalvarija	Vilkaviškis	44
+Kalvarija	Vilnius		159
+Kalvarija	Visaginas	290
+Kalvarija	Zarasai		266
+Kalvarija	Buknaičių PKP	283
+Kalvarija	Būtingės PKP	288
+Kalvarija	Kalvarijos PKP	14
+Kalvarija	Kalvių PKP	275
+Kalvarija	Kybartų PKP	58
+Kalvarija	Lavoriškių PKP	193
+Kalvarija	Lazdijų PKP	41
+Kalvarija	Medininkų PKP	191
+Kalvarija	Nidos PKP	297
+Kalvarija	Obelių PKP	275
+Kalvarija	Panemunės PKP	161
+Kalvarija	Raigardo PKP	87
+Kalvarija	Ramoniškių PKP	112
+Kalvarija	Šalčininkų PKP	171
+Kalvarija	Saločių PKP	256
+Kalvarija	Skuodo PKP	281
+Kalvarija	Smėlynės PKP	270
+Kaunas	Kazlų Rūda	43
+Kaunas	Kėdainiai	54
+Kaunas	Kelmė		129
+Kaunas	Klaipėda	215
+Kaunas	Kretinga	219
+Kaunas	Kupiškis	151
+Kaunas	Kuršėnai	176
+Kaunas	Lazdijai	106
+Kaunas	Marijampolė	63
+Kaunas	Mažeikiai	228
+Kaunas	Molėtai		113
+Kaunas	N.Akmenė	202
+Kaunas	Pagėgiai	146
+Kaunas	Pakruojis	152
+Kaunas	Palanga		236
+Kaunas	Panevėžys	106
+Kaunas	Pasvalys	152
+Kaunas	Plungė		191
+Kaunas	Prienai		34
+Kaunas	Radviliškis	124
+Kaunas	Raseiniai	83
+Kaunas	Rietavas	168
+Kaunas	Rokiškis	172
+Kaunas	Skuodas		241
+Kaunas	Šakiai		61
+Kaunas	Šalčininkai	139
+Kaunas	Šiauliai	146
+Kaunas	Šilalė		144
+Kaunas	Šilutė		184
+Kaunas	Širvintos	95
+Kaunas	Švenčionys	175
+Kaunas	Tauragė		128
+Kaunas	Telšiai		191
+Kaunas	Trakai		83
+Kaunas	Ukmergė		69
+Kaunas	Utena		132
+Kaunas	Varėna		114
+Kaunas	Vilkaviškis	73
+Kaunas	Vilnius		102
+Kaunas	Visaginas	205
+Kaunas	Zarasai		181
+Kaunas	Buknaičių PKP	239
+Kaunas	Būtingės PKP	254
+Kaunas	Kalvarijos PKP	92
+Kaunas	Kalvių PKP	197
+Kaunas	Kybartų PKP	93
+Kaunas	Lavoriškių PKP	135
+Kaunas	Lazdijų PKP	113
+Kaunas	Medininkų PKP	135
+Kaunas	Nidos PKP	263
+Kaunas	Obelių PKP	190
+Kaunas	Panemunės PKP	147
+Kaunas	Raigardo PKP	127
+Kaunas	Ramoniškių PKP	98
+Kaunas	Šalčininkų PKP	143
+Kaunas	Saločių PKP	178
+Kaunas	Skuodo PKP	244
+Kaunas	Smėlynės PKP	185
+Kazlų Rūda	Kėdainiai	96
+Kazlų Rūda	Kelmė		145
+Kazlų Rūda	Klaipėda	218
+Kazlų Rūda	Kretinga	236
+Kazlų Rūda	Kupiškis	193
+Kazlų Rūda	Kuršėnai	188
+Kazlų Rūda	Lazdijai	81
+Kazlų Rūda	Marijampolė	33
+Kazlų Rūda	Mažeikiai	241
+Kazlų Rūda	Molėtai		161
+Kazlų Rūda	N.Akmenė	239
+Kazlų Rūda	Pagėgiai	129
+Kazlų Rūda	Pakruojis	195
+Kazlų Rūda	Palanga		239
+Kazlų Rūda	Panevėžys	148
+Kazlų Rūda	Pasvalys	194
+Kazlų Rūda	Plungė		197
+Kazlų Rūda	Prienai		40
+Kazlų Rūda	Radviliškis	166
+Kazlų Rūda	Raseiniai	117
+Kazlų Rūda	Rietavas	174
+Kazlų Rūda	Rokiškis	220
+Kazlų Rūda	Skuodas		247
+Kazlų Rūda	Šakiai		44
+Kazlų Rūda	Šalčininkai	171
+Kazlų Rūda	Šiauliai	187
+Kazlų Rūda	Šilalė		141
+Kazlų Rūda	Šilutė		167
+Kazlų Rūda	Širvintos	144
+Kazlų Rūda	Švenčionys	222
+Kazlų Rūda	Tauragė		111
+Kazlų Rūda	Telšiai		204
+Kazlų Rūda	Trakai		110
+Kazlų Rūda	Ukmergė		117
+Kazlų Rūda	Utena		181
+Kazlų Rūda	Varėna		120
+Kazlų Rūda	Vilkaviškis	44
+Kazlų Rūda	Vilnius		137
+Kazlų Rūda	Visaginas	253
+Kazlų Rūda	Zarasai		230
+Kazlų Rūda	Buknaičių PKP	252
+Kazlų Rūda	Būtingės PKP	257
+Kazlų Rūda	Kalvarijos PKP	63
+Kazlų Rūda	Kalvių PKP	239
+Kazlų Rūda	Kybartų PKP	64
+Kazlų Rūda	Lavoriškių PKP	170
+Kazlų Rūda	Lazdijų PKP	91
+Kazlų Rūda	Medininkų PKP	168
+Kazlų Rūda	Nidos PKP	266
+Kazlų Rūda	Obelių PKP	238
+Kazlų Rūda	Panemunės PKP	130
+Kazlų Rūda	Raigardo PKP	130
+Kazlų Rūda	Ramoniškių PKP	81
+Kazlų Rūda	Šalčininkų PKP	176
+Kazlų Rūda	Saločių PKP	220
+Kazlų Rūda	Skuodo PKP	250
+Kazlų Rūda	Smėlynės PKP	234
+Kėdainiai	Kelmė		122
+Kėdainiai	Klaipėda	208
+Kėdainiai	Kretinga	212
+Kėdainiai	Kupiškis	104
+Kėdainiai	Kuršėnai	129
+Kėdainiai	Lazdijai	159
+Kėdainiai	Marijampolė	116
+Kėdainiai	Mažeikiai	184
+Kėdainiai	Molėtai		100
+Kėdainiai	N.Akmenė	153
+Kėdainiai	Pagėgiai	165
+Kėdainiai	Pakruojis	101
+Kėdainiai	Palanga		229
+Kėdainiai	Panevėžys	59
+Kėdainiai	Pasvalys	99
+Kėdainiai	Plungė		183
+Kėdainiai	Prienai		87
+Kėdainiai	Radviliškis	75
+Kėdainiai	Raseiniai	76
+Kėdainiai	Rietavas	161
+Kėdainiai	Rokiškis	148
+Kėdainiai	Skuodas		234
+Kėdainiai	Šakiai		110
+Kėdainiai	Šalčininkai	173
+Kėdainiai	Šiauliai	97
+Kėdainiai	Šilalė		137
+Kėdainiai	Šilutė		192
+Kėdainiai	Širvintos	83
+Kėdainiai	Švenčionys	162
+Kėdainiai	Tauragė		136
+Kėdainiai	Telšiai		176
+Kėdainiai	Trakai		118
+Kėdainiai	Ukmergė		57
+Kėdainiai	Utena		120
+Kėdainiai	Varėna		167
+Kėdainiai	Vilkaviškis	127
+Kėdainiai	Vilnius		129
+Kėdainiai	Visaginas	193
+Kėdainiai	Zarasai		169
+Kėdainiai	Buknaičių PKP	195
+Kėdainiai	Būtingės PKP	246
+Kėdainiai	Kalvarijos PKP	145
+Kėdainiai	Kalvių PKP	148
+Kėdainiai	Kybartų PKP	146
+Kėdainiai	Lavoriškių PKP	162
+Kėdainiai	Lazdijų PKP	167
+Kėdainiai	Medininkų PKP	163
+Kėdainiai	Nidos PKP	256
+Kėdainiai	Obelių PKP	168
+Kėdainiai	Panemunės PKP	167
+Kėdainiai	Raigardo PKP	181
+Kėdainiai	Ramoniškių PKP	129
+Kėdainiai	Šalčininkų PKP	177
+Kėdainiai	Saločių PKP	125
+Kėdainiai	Skuodo PKP	237
+Kėdainiai	Smėlynės PKP	173
+Kelmė	Klaipėda	131
+Kelmė	Kretinga	141
+Kelmė	Kupiškis	153
+Kelmė	Kuršėnai	44
+Kelmė	Lazdijai	207
+Kelmė	Marijampolė	159
+Kelmė	Mažeikiai	97
+Kelmė	Molėtai		209
+Kelmė	N.Akmenė	95
+Kelmė	Pagėgiai	89
+Kelmė	Pakruojis	91
+Kelmė	Palanga		152
+Kelmė	Panevėžys	108
+Kelmė	Pasvalys	122
+Kelmė	Plungė		102
+Kelmė	Prienai		162
+Kelmė	Radviliškis	58
+Kelmė	Raseiniai	46
+Kelmė	Rietavas	85
+Kelmė	Rokiškis	197
+Kelmė	Skuodas		147
+Kelmė	Šakiai		105
+Kelmė	Šalčininkai	262
+Kelmė	Šiauliai	43
+Kelmė	Šilalė		60
+Kelmė	Šilutė		116
+Kelmė	Širvintos	195
+Kelmė	Švenčionys	270
+Kelmė	Tauragė		60
+Kelmė	Telšiai		78
+Kelmė	Trakai		207
+Kelmė	Ukmergė		170
+Kelmė	Utena		204
+Kelmė	Varėna		242
+Kelmė	Vilkaviškis	148
+Kelmė	Vilnius		225
+Kelmė	Visaginas	277
+Kelmė	Zarasai		248
+Kelmė	Buknaičių PKP	108
+Kelmė	Būtingės PKP	170
+Kelmė	Kalvarijos PKP	189
+Kelmė	Kalvių PKP	100
+Kelmė	Kybartų PKP	168
+Kelmė	Lavoriškių PKP	258
+Kelmė	Lazdijų PKP	217
+Kelmė	Medininkų PKP	259
+Kelmė	Nidos PKP	179
+Kelmė	Obelių PKP	217
+Kelmė	Panemunės PKP	90
+Kelmė	Raigardo PKP	256
+Kelmė	Ramoniškių PKP	91
+Kelmė	Šalčininkų PKP	266
+Kelmė	Saločių PKP	151
+Kelmė	Skuodo PKP	150
+Kelmė	Smėlynės PKP	252
+Klaipėda	Kretinga	23
+Klaipėda	Kupiškis	284
+Klaipėda	Kuršėnai	133
+Klaipėda	Lazdijai	280
+Klaipėda	Marijampolė	233
+Klaipėda	Mažeikiai	120
+Klaipėda	Molėtai		308
+Klaipėda	N.Akmenė	159
+Klaipėda	Pagėgiai	90
+Klaipėda	Pakruojis	201
+Klaipėda	Palanga		26
+Klaipėda	Panevėžys	239
+Klaipėda	Pasvalys	232
+Klaipėda	Plungė		62
+Klaipėda	Prienai		248
+Klaipėda	Radviliškis	187
+Klaipėda	Raseiniai	143
+Klaipėda	Rietavas	54
+Klaipėda	Rokiškis	326
+Klaipėda	Skuodas		75
+Klaipėda	Šakiai		179
+Klaipėda	Šalčininkai	348
+Klaipėda	Šiauliai	159
+Klaipėda	Šilalė		81
+Klaipėda	Šilutė		53
+Klaipėda	Širvintos	291
+Klaipėda	Švenčionys	370
+Klaipėda	Tauragė		111
+Klaipėda	Telšiai		92
+Klaipėda	Trakai		293
+Klaipėda	Ukmergė		265
+Klaipėda	Utena		328
+Klaipėda	Varėna		329
+Klaipėda	Vilkaviškis	222
+Klaipėda	Vilnius		311
+Klaipėda	Visaginas	401
+Klaipėda	Zarasai		377
+Klaipėda	Buknaičių PKP	131
+Klaipėda	Būtingės PKP	44
+Klaipėda	Kalvarijos PKP	262
+Klaipėda	Kalvių PKP	210
+Klaipėda	Kybartų PKP	242
+Klaipėda	Lavoriškių PKP	344
+Klaipėda	Lazdijų PKP	290
+Klaipėda	Medininkų PKP	345
+Klaipėda	Nidos PKP	51
+Klaipėda	Obelių PKP	348
+Klaipėda	Panemunės PKP	98
+Klaipėda	Raigardo PKP	330
+Klaipėda	Ramoniškių PKP	165
+Klaipėda	Šalčininkų PKP	353
+Klaipėda	Saločių PKP	261
+Klaipėda	Skuodo PKP	78
+Klaipėda	Smėlynės PKP	381
+Kretinga	Kupiškis	264
+Kretinga	Kuršėnai	110
+Kretinga	Lazdijai	288
+Kretinga	Marijampolė	240
+Kretinga	Mažeikiai	97
+Kretinga	Molėtai		312
+Kretinga	N.Akmenė	137
+Kretinga	Pagėgiai	107
+Kretinga	Pakruojis	178
+Kretinga	Palanga		11
+Kretinga	Panevėžys	221
+Kretinga	Pasvalys	210
+Kretinga	Plungė		45
+Kretinga	Prienai		253
+Kretinga	Radviliškis	165
+Kretinga	Raseiniai	147
+Kretinga	Rietavas	59
+Kretinga	Rokiškis	304
+Kretinga	Skuodas		52
+Kretinga	Šakiai		186
+Kretinga	Šalčininkai	352
+Kretinga	Šiauliai	136
+Kretinga	Šilalė		85
+Kretinga	Šilutė		71
+Kretinga	Širvintos	295
+Kretinga	Švenčionys	374
+Kretinga	Tauragė		115
+Kretinga	Telšiai		69
+Kretinga	Trakai		297
+Kretinga	Ukmergė		269
+Kretinga	Utena		318
+Kretinga	Varėna		333
+Kretinga	Vilkaviškis	229
+Kretinga	Vilnius		316
+Kretinga	Visaginas	391
+Kretinga	Zarasai		360
+Kretinga	Buknaičių PKP	108
+Kretinga	Būtingės PKP	29
+Kretinga	Kalvarijos PKP	269
+Kretinga	Kalvių PKP	187
+Kretinga	Kybartų PKP	249
+Kretinga	Lavoriškių PKP	349
+Kretinga	Lazdijų PKP	297
+Kretinga	Medininkų PKP	349
+Kretinga	Nidos PKP	74
+Kretinga	Obelių PKP	328
+Kretinga	Panemunės PKP	116
+Kretinga	Raigardo PKP	337
+Kretinga	Ramoniškių PKP	183
+Kretinga	Šalčininkų PKP	357
+Kretinga	Saločių PKP	238
+Kretinga	Skuodo PKP	55
+Kretinga	Smėlynės PKP	364
+Kupiškis	Kuršėnai	154
+Kupiškis	Lazdijai	256
+Kupiškis	Marijampolė	213
+Kupiškis	Mažeikiai	209
+Kupiškis	Molėtai		89
+Kupiškis	N.Akmenė	177
+Kupiškis	Pagėgiai	242
+Kupiškis	Pakruojis	91
+Kupiškis	Palanga		275
+Kupiškis	Panevėžys	45
+Kupiškis	Pasvalys	54
+Kupiškis	Plungė		225
+Kupiškis	Prienai		184
+Kupiškis	Radviliškis	102
+Kupiškis	Raseiniai	154
+Kupiškis	Rietavas	237
+Kupiškis	Rokiškis	44
+Kupiškis	Skuodas		262
+Kupiškis	Šakiai		207
+Kupiškis	Šalčininkai	196
+Kupiškis	Šiauliai	124
+Kupiškis	Šilalė		213
+Kupiškis	Šilutė		269
+Kupiškis	Širvintos	109
+Kupiškis	Švenčionys	122
+Kupiškis	Tauragė		212
+Kupiškis	Telšiai		201
+Kupiškis	Trakai		164
+Kupiškis	Ukmergė		85
+Kupiškis	Utena		57
+Kupiškis	Varėna		235
+Kupiškis	Vilkaviškis	223
+Kupiškis	Vilnius		151
+Kupiškis	Visaginas	130
+Kupiškis	Zarasai		96
+Kupiškis	Buknaičių PKP	220
+Kupiškis	Būtingės PKP	293
+Kupiškis	Kalvarijos PKP	242
+Kupiškis	Kalvių PKP	135
+Kupiškis	Kybartų PKP	243
+Kupiškis	Lavoriškių PKP	184
+Kupiškis	Lazdijų PKP	264
+Kupiškis	Medininkų PKP	185
+Kupiškis	Nidos PKP	332
+Kupiškis	Obelių PKP	64
+Kupiškis	Panemunės PKP	243
+Kupiškis	Raigardo PKP	277
+Kupiškis	Ramoniškių PKP	218
+Kupiškis	Šalčininkų PKP	200
+Kupiškis	Saločių PKP	80
+Kupiškis	Skuodo PKP	265
+Kupiškis	Smėlynės PKP	100
+Kuršėnai	Lazdijai	250
+Kuršėnai	Marijampolė	203
+Kuršėnai	Mažeikiai	56
+Kuršėnai	Molėtai		212
+Kuršėnai	N.Akmenė	51
+Kuršėnai	Pagėgiai	132
+Kuršėnai	Pakruojis	68
+Kuršėnai	Palanga		121
+Kuršėnai	Panevėžys	111
+Kuršėnai	Pasvalys	100
+Kuršėnai	Plungė		71
+Kuršėnai	Prienai		209
+Kuršėnai	Radviliškis	54
+Kuršėnai	Raseiniai	98
+Kuršėnai	Rietavas	93
+Kuršėnai	Rokiškis	194
+Kuršėnai	Skuodas		109
+Kuršėnai	Šakiai		149
+Kuršėnai	Šalčininkai	290
+Kuršėnai	Šiauliai	26
+Kuršėnai	Šilalė		89
+Kuršėnai	Šilutė		145
+Kuršėnai	Širvintos	199
+Kuršėnai	Švenčionys	273
+Kuršėnai	Tauragė		103
+Kuršėnai	Telšiai		47
+Kuršėnai	Trakai		242
+Kuršėnai	Ukmergė		173
+Kuršėnai	Utena		208
+Kuršėnai	Varėna		289
+Kuršėnai	Vilkaviškis	192
+Kuršėnai	Vilnius		245
+Kuršėnai	Visaginas	281
+Kuršėnai	Zarasai		250
+Kuršėnai	Buknaičių PKP	67
+Kuršėnai	Būtingės PKP	139
+Kuršėnai	Kalvarijos PKP	232
+Kuršėnai	Kalvių PKP	77
+Kuršėnai	Kybartų PKP	212
+Kuršėnai	Lavoriškių PKP	278
+Kuršėnai	Lazdijų PKP	260
+Kuršėnai	Medininkų PKP	279
+Kuršėnai	Nidos PKP	181
+Kuršėnai	Obelių PKP	218
+Kuršėnai	Panemunės PKP	134
+Kuršėnai	Raigardo PKP	300
+Kuršėnai	Ramoniškių PKP	135
+Kuršėnai	Šalčininkų PKP	295
+Kuršėnai	Saločių PKP	128
+Kuršėnai	Skuodo PKP	112
+Kuršėnai	Smėlynės PKP	254
+Lazdijai	Marijampolė	56
+Lazdijai	Mažeikiai	303
+Lazdijai	Molėtai		211
+Lazdijai	N.Akmenė	302
+Lazdijai	Pagėgiai	191
+Lazdijai	Pakruojis	258
+Lazdijai	Palanga		301
+Lazdijai	Panevėžys	211
+Lazdijai	Pasvalys	257
+Lazdijai	Plungė		259
+Lazdijai	Prienai		74
+Lazdijai	Radviliškis	229
+Lazdijai	Raseiniai	180
+Lazdijai	Rietavas	237
+Lazdijai	Rokiškis	283
+Lazdijai	Skuodas		309
+Lazdijai	Šakiai		107
+Lazdijai	Šalčininkai	152
+Lazdijai	Šiauliai	249
+Lazdijai	Šilalė		203
+Lazdijai	Šilutė		229
+Lazdijai	Širvintos	170
+Lazdijai	Švenčionys	231
+Lazdijai	Tauragė		173
+Lazdijai	Telšiai		266
+Lazdijai	Trakai		120
+Lazdijai	Ukmergė		180
+Lazdijai	Utena		244
+Lazdijai	Varėna		89
+Lazdijai	Vilkaviškis	75
+Lazdijai	Vilnius		146
+Lazdijai	Visaginas	299
+Lazdijai	Zarasai		293
+Lazdijai	Buknaičių PKP	314
+Lazdijai	Būtingės PKP	319
+Lazdijai	Kalvarijos PKP	44
+Lazdijai	Kalvių PKP	302
+Lazdijai	Kybartų PKP	89
+Lazdijai	Lavoriškių PKP	179
+Lazdijai	Lazdijų PKP	10
+Lazdijai	Medininkų PKP	177
+Lazdijai	Nidos PKP	328
+Lazdijai	Obelių PKP	301
+Lazdijai	Panemunės PKP	192
+Lazdijai	Raigardo PKP	56
+Lazdijai	Ramoniškių PKP	143
+Lazdijai	Šalčininkų PKP	155
+Lazdijai	Saločių PKP	283
+Lazdijai	Skuodo PKP	312
+Lazdijai	Smėlynės PKP	297
+Marijampolė	Mažeikiai	255
+Marijampolė	Molėtai		181
+Marijampolė	N.Akmenė	254
+Marijampolė	Pagėgiai	143
+Marijampolė	Pakruojis	214
+Marijampolė	Palanga		253
+Marijampolė	Panevėžys	168
+Marijampolė	Pasvalys	214
+Marijampolė	Plungė		211
+Marijampolė	Prienai		42
+Marijampolė	Radviliškis	186
+Marijampolė	Raseiniai	132
+Marijampolė	Rietavas	189
+Marijampolė	Rokiškis	239
+Marijampolė	Skuodas		262
+Marijampolė	Šakiai		59
+Marijampolė	Šalčininkai	170
+Marijampolė	Šiauliai	201
+Marijampolė	Šilalė		156
+Marijampolė	Šilutė		181
+Marijampolė	Širvintos	158
+Marijampolė	Švenčionys	222
+Marijampolė	Tauragė		125
+Marijampolė	Telšiai		218
+Marijampolė	Trakai		111
+Marijampolė	Ukmergė		137
+Marijampolė	Utena		200
+Marijampolė	Varėna		110
+Marijampolė	Vilkaviškis	27
+Marijampolė	Vilnius		138
+Marijampolė	Visaginas	273
+Marijampolė	Zarasai		249
+Marijampolė	Buknaičių PKP	266
+Marijampolė	Būtingės PKP	271
+Marijampolė	Kalvarijos PKP	33
+Marijampolė	Kalvių PKP	259
+Marijampolė	Kybartų PKP	42
+Marijampolė	Lavoriškių PKP	171
+Marijampolė	Lazdijų PKP	66
+Marijampolė	Medininkų PKP	169
+Marijampolė	Nidos PKP	280
+Marijampolė	Obelių PKP	258
+Marijampolė	Panemunės PKP	144
+Marijampolė	Raigardo PKP	97
+Marijampolė	Ramoniškių PKP	95
+Marijampolė	Šalčininkų PKP	174
+Marijampolė	Saločių PKP	240
+Marijampolė	Skuodo PKP	265
+Marijampolė	Smėlynės PKP	253
+Mažeikiai	Molėtai		267
+Mažeikiai	N.Akmenė	46
+Mažeikiai	Pagėgiai	173
+Mažeikiai	Pakruojis	123
+Mažeikiai	Palanga		108
+Mažeikiai	Panevėžys	166
+Mažeikiai	Pasvalys	154
+Mažeikiai	Plungė		58
+Mažeikiai	Prienai		261
+Mažeikiai	Radviliškis	109
+Mažeikiai	Raseiniai	150
+Mažeikiai	Rietavas	80
+Mažeikiai	Rokiškis	248
+Mažeikiai	Skuodas		55
+Mažeikiai	Šakiai		201
+Mažeikiai	Šalčininkai	344
+Mažeikiai	Šiauliai	80
+Mažeikiai	Šilalė		114
+Mažeikiai	Šilutė		153
+Mažeikiai	Širvintos	253
+Mažeikiai	Švenčionys	328
+Mažeikiai	Tauragė		144
+Mažeikiai	Telšiai		50
+Mažeikiai	Trakai		296
+Mažeikiai	Ukmergė		228
+Mažeikiai	Utena		262
+Mažeikiai	Varėna		342
+Mažeikiai	Vilkaviškis	244
+Mažeikiai	Vilnius		300
+Mažeikiai	Visaginas	335
+Mažeikiai	Zarasai		304
+Mažeikiai	Buknaičių PKP	11
+Mažeikiai	Būtingės PKP	126
+Mažeikiai	Kalvarijos PKP	284
+Mažeikiai	Kalvių PKP	111
+Mažeikiai	Kybartų PKP	264
+Mažeikiai	Lavoriškių PKP	332
+Mažeikiai	Lazdijų PKP	313
+Mažeikiai	Medininkų PKP	334
+Mažeikiai	Nidos PKP	167
+Mažeikiai	Obelių PKP	272
+Mažeikiai	Panemunės PKP	175
+Mažeikiai	Raigardo PKP	352
+Mažeikiai	Ramoniškių PKP	187
+Mažeikiai	Šalčininkų PKP	349
+Mažeikiai	Saločių PKP	183
+Mažeikiai	Skuodo PKP	58
+Mažeikiai	Smėlynės PKP	308
+Molėtai	N.Akmenė	236
+Molėtai	Pagėgiai	258
+Molėtai	Pakruojis	151
+Molėtai	Palanga		329
+Molėtai	Panevėžys	101
+Molėtai	Pasvalys	143
+Molėtai	Plungė		283
+Molėtai	Prienai		152
+Molėtai	Radviliškis	158
+Molėtai	Raseiniai	176
+Molėtai	Rietavas	261
+Molėtai	Rokiškis	97
+Molėtai	Skuodas		320
+Molėtai	Šakiai		175
+Molėtai	Šalčininkai	109
+Molėtai	Šiauliai	180
+Molėtai	Šilalė		237
+Molėtai	Šilutė		293
+Molėtai	Širvintos	63
+Molėtai	Švenčionys	62
+Molėtai	Tauragė		236
+Molėtai	Telšiai		259
+Molėtai	Trakai		91
+Molėtai	Ukmergė		44
+Molėtai	Utena		35
+Molėtai	Varėna		149
+Molėtai	Vilkaviškis	191
+Molėtai	Vilnius		64
+Molėtai	Visaginas	99
+Molėtai	Zarasai		84
+Molėtai	Buknaičių PKP	278
+Molėtai	Būtingės PKP	347
+Molėtai	Kalvarijos PKP	210
+Molėtai	Kalvių PKP	213
+Molėtai	Kybartų PKP	211
+Molėtai	Lavoriškių PKP	97
+Molėtai	Lazdijų PKP	218
+Molėtai	Medininkų PKP	98
+Molėtai	Nidos PKP	356
+Molėtai	Obelių PKP	116
+Molėtai	Panemunės PKP	260
+Molėtai	Raigardo PKP	199
+Molėtai	Ramoniškių PKP	211
+Molėtai	Šalčininkų PKP	114
+Molėtai	Saločių PKP	169
+Molėtai	Skuodo PKP	323
+Molėtai	Smėlynės PKP	88
+N. Akmenė	Pagėgiai	184
+N. Akmenė	Pakruojis	92
+N. Akmenė	Palanga		148
+N. Akmenė	Panevėžys	135
+N. Akmenė	Pasvalys	122
+N. Akmenė	Plungė		97
+N. Akmenė	Prienai		235
+N. Akmenė	Radviliškis	79
+N. Akmenė	Raseiniai	145
+N. Akmenė	Rietavas	120
+N. Akmenė	Rokiškis	215
+N. Akmenė	Skuodas		100
+N. Akmenė	Šakiai		200
+N. Akmenė	Šalčininkai	314
+N. Akmenė	Šiauliai	58
+N. Akmenė	Šilalė		140
+N. Akmenė	Šilutė		193
+N. Akmenė	Širvintos	223
+N. Akmenė	Švenčionys	297
+N. Akmenė	Tauragė		154
+N. Akmenė	Telšiai		87
+N. Akmenė	Trakai		266
+N. Akmenė	Ukmergė		197
+N. Akmenė	Utena		232
+N. Akmenė	Varėna		316
+N. Akmenė	Vilkaviškis	243
+N. Akmenė	Vilnius		269
+N. Akmenė	Visaginas	305
+N. Akmenė	Zarasai		272
+N. Akmenė	Buknaičių PKP	57
+N. Akmenė	Būtingės PKP	166
+N. Akmenė	Kalvarijos PKP	283
+N. Akmenė	Kalvių PKP	70
+N. Akmenė	Kybartų PKP	263
+N. Akmenė	Lavoriškių PKP	302
+N. Akmenė	Lazdijų PKP	311
+N. Akmenė	Medininkų PKP	303
+N. Akmenė	Nidos PKP	207
+N. Akmenė	Obelių PKP	241
+N. Akmenė	Panemunės PKP	185
+N. Akmenė	Raigardo PKP	329
+N. Akmenė	Ramoniškių PKP	186
+N. Akmenė	Šalčininkų PKP	319
+N. Akmenė	Saločių PKP	149
+N. Akmenė	Skuodo PKP	102
+N. Akmenė	Smėlynės PKP	276
+Pagėgiai	Pakruojis	179
+Pagėgiai	Palanga		110
+Pagėgiai	Panevėžys	197
+Pagėgiai	Pasvalys	211
+Pagėgiai	Plungė		115
+Pagėgiai	Prienai		173
+Pagėgiai	Radviliškis	147
+Pagėgiai	Raseiniai	100
+Pagėgiai	Rietavas	93
+Pagėgiai	Rokiškis	286
+Pagėgiai	Skuodas		160
+Pagėgiai	Šakiai		89
+Pagėgiai	Šalčininkai	284
+Pagėgiai	Šiauliai	131
+Pagėgiai	Šilalė		60
+Pagėgiai	Šilutė		38
+Pagėgiai	Širvintos	241
+Pagėgiai	Švenčionys	320
+Pagėgiai	Tauragė		29
+Pagėgiai	Telšiai		126
+Pagėgiai	Trakai		229
+Pagėgiai	Ukmergė		215
+Pagėgiai	Utena		278
+Pagėgiai	Varėna		253
+Pagėgiai	Vilkaviškis	132
+Pagėgiai	Vilnius		248
+Pagėgiai	Visaginas	351
+Pagėgiai	Zarasai		327
+Pagėgiai	Buknaičių PKP	184
+Pagėgiai	Būtingės PKP	128
+Pagėgiai	Kalvarijos PKP	172
+Pagėgiai	Kalvių PKP	188
+Pagėgiai	Kybartų PKP	152
+Pagėgiai	Lavoriškių PKP	281
+Pagėgiai	Lazdijų PKP	201
+Pagėgiai	Medininkų PKP	281
+Pagėgiai	Nidos PKP	137
+Pagėgiai	Obelių PKP	306
+Pagėgiai	Panemunės PKP	8
+Pagėgiai	Raigardo PKP	240
+Pagėgiai	Ramoniškių PKP	75
+Pagėgiai	Šalčininkų PKP	289
+Pagėgiai	Saločių PKP	239
+Pagėgiai	Skuodo PKP	163
+Pagėgiai	Smėlynės PKP	331
+Pakruojis	Palanga		189
+Pakruojis	Panevėžys	50
+Pakruojis	Pasvalys	36
+Pakruojis	Plungė		139
+Pakruojis	Prienai		185
+Pakruojis	Radviliškis	32
+Pakruojis	Raseiniai	99
+Pakruojis	Rietavas	161
+Pakruojis	Rokiškis	130
+Pakruojis	Skuodas		176
+Pakruojis	Šakiai		177
+Pakruojis	Šalčininkai	228
+Pakruojis	Šiauliai	40
+Pakruojis	Šilalė		149
+Pakruojis	Šilutė		205
+Pakruojis	Širvintos	137
+Pakruojis	Švenčionys	211
+Pakruojis	Tauragė		150
+Pakruojis	Telšiai		115
+Pakruojis	Trakai		191
+Pakruojis	Ukmergė		112
+Pakruojis	Utena		146
+Pakruojis	Varėna		266
+Pakruojis	Vilkaviškis	220
+Pakruojis	Vilnius		184
+Pakruojis	Visaginas	219
+Pakruojis	Zarasai		186
+Pakruojis	Buknaičių PKP	134
+Pakruojis	Būtingės PKP	207
+Pakruojis	Kalvarijos PKP	243
+Pakruojis	Kalvių PKP	62
+Pakruojis	Kybartų PKP	240
+Pakruojis	Lavoriškių PKP	216
+Pakruojis	Lazdijų PKP	265
+Pakruojis	Medininkų PKP	218
+Pakruojis	Nidos PKP	248
+Pakruojis	Obelių PKP	155
+Pakruojis	Panemunės PKP	180
+Pakruojis	Raigardo PKP	279
+Pakruojis	Ramoniškių PKP	163
+Pakruojis	Šalčininkų PKP	233
+Pakruojis	Saločių PKP	65
+Pakruojis	Skuodo PKP	179
+Pakruojis	Smėlynės PKP	191
+Palanga		Panevėžys	232
+Palanga		Pasvalys	221
+Palanga		Plungė		56
+Palanga		Prienai		269
+Palanga		Radviliškis	175
+Palanga		Raseiniai	163
+Palanga		Rietavas	75
+Palanga		Rokiškis	315
+Palanga		Skuodas		63
+Palanga		Šakiai		199
+Palanga		Šalčininkai	369
+Palanga		Šiauliai	147
+Palanga		Šilalė		102
+Palanga		Šilutė		74
+Palanga		Širvintos	311
+Palanga		Švenčionys	391
+Palanga		Tauragė		131
+Palanga		Telšiai		80
+Palanga		Trakai		313
+Palanga		Ukmergė		285
+Palanga		Utena		329
+Palanga		Varėna		349
+Palanga		Vilkaviškis	242
+Palanga		Vilnius		332
+Palanga		Visaginas	402
+Palanga		Zarasai		371
+Palanga		Buknaičių PKP	119
+Palanga		Būtingės PKP	19
+Palanga		Kalvarijos PKP	283
+Palanga		Kalvių PKP	198
+Palanga		Kybartų PKP	262
+Palanga		Lavoriškių PKP	365
+Palanga		Lazdijų PKP	311
+Palanga		Medininkų PKP	366
+Palanga		Nidos PKP	77
+Palanga		Obelių PKP	339
+Palanga		Panemunės PKP	118
+Palanga		Raigardo PKP	350
+Palanga		Ramoniškių PKP	185
+Palanga		Šalčininkų PKP	373
+Palanga		Saločių PKP	249
+Palanga		Skuodo PKP	66
+Palanga		Smėlynės PKP	375
+Panevėžys	Pasvalys	40
+Panevėžys	Plungė		182
+Panevėžys	Prienai		139
+Panevėžys	Radviliškis	57
+Panevėžys	Raseiniai	109
+Panevėžys	Rietavas	192
+Panevėžys	Rokiškis	89
+Panevėžys	Skuodas		219
+Panevėžys	Šakiai		162
+Panevėžys	Šalčininkai	181
+Panevėžys	Šiauliai	79
+Panevėžys	Šilalė		168
+Panevėžys	Šilutė		224
+Panevėžys	Širvintos	89
+Panevėžys	Švenčionys	162
+Panevėžys	Tauragė		167
+Panevėžys	Telšiai		158
+Panevėžys	Trakai		144
+Panevėžys	Ukmergė		64
+Panevėžys	Utena		97
+Panevėžys	Varėna		219
+Panevėžys	Vilkaviškis	178
+Panevėžys	Vilnius		136
+Panevėžys	Visaginas	170
+Panevėžys	Zarasai		141
+Panevėžys	Buknaičių PKP	177
+Panevėžys	Būtingės PKP	250
+Panevėžys	Kalvarijos PKP	197
+Panevėžys	Kalvių PKP	112
+Panevėžys	Kybartų PKP	198
+Panevėžys	Lavoriškių PKP	168
+Panevėžys	Lazdijų PKP	219
+Panevėžys	Medininkų PKP	170
+Panevėžys	Nidos PKP	287
+Panevėžys	Obelių PKP	109
+Panevėžys	Panemunės PKP	198
+Panevėžys	Raigardo PKP	233
+Panevėžys	Ramoniškių PKP	173
+Panevėžys	Šalčininkų PKP	185
+Panevėžys	Saločių PKP	66
+Panevėžys	Skuodo PKP	222
+Panevėžys	Smėlynės PKP	145
+Pasvalys	Plungė		171
+Pasvalys	Prienai		185
+Pasvalys	Radviliškis	64
+Pasvalys	Raseiniai	131
+Pasvalys	Rietavas	193
+Pasvalys	Rokiškis	94
+Pasvalys	Skuodas		208
+Pasvalys	Šakiai		208
+Pasvalys	Šalčininkai	226
+Pasvalys	Šiauliai	72
+Pasvalys	Šilalė		181
+Pasvalys	Šilutė		237
+Pasvalys	Širvintos	135
+Pasvalys	Švenčionys	177
+Pasvalys	Tauragė		182
+Pasvalys	Telšiai		146
+Pasvalys	Trakai		190
+Pasvalys	Ukmergė		110
+Pasvalys	Utena		112
+Pasvalys	Varėna		265
+Pasvalys	Vilkaviškis	224
+Pasvalys	Vilnius		182
+Pasvalys	Visaginas	184
+Pasvalys	Zarasai		150
+Pasvalys	Buknaičių PKP	165
+Pasvalys	Būtingės PKP	239
+Pasvalys	Kalvarijos PKP	243
+Pasvalys	Kalvių PKP	80
+Pasvalys	Kybartų PKP	244
+Pasvalys	Lavoriškių PKP	214
+Pasvalys	Lazdijų PKP	264
+Pasvalys	Medininkų PKP	216
+Pasvalys	Nidos PKP	280
+Pasvalys	Obelių PKP	118
+Pasvalys	Panemunės PKP	212
+Pasvalys	Raigardo PKP	278
+Pasvalys	Ramoniškių PKP	195
+Pasvalys	Šalčininkų PKP	231
+Pasvalys	Saločių PKP	29
+Pasvalys	Skuodo PKP	210
+Pasvalys	Smėlynės PKP	154
+Plungė		Prienai	224
+Plungė		Radviliškis	125
+Plungė		Raseiniai	118
+Plungė		Rietavas	22
+Plungė		Rokiškis	264
+Plungė	Skuodas	50
+Plungė	Šakiai	157
+Plungė	Šalčininkai	324
+Plungė	Šiauliai	97
+Plungė	Šilalė	57
+Plungė	Šilutė	95
+Plungė	Širvintos	266
+Plungė	Švenčionys	344
+Plungė	Tauragė	86
+Plungė	Telšiai	30
+Plungė	Trakai	268
+Plungė	Ukmergė	240
+Plungė	Utena	279
+Plungė	Varėna	304
+Plungė	Vilkaviškis	200
+Plungė	Vilnius	287
+Plungė	Visaginas	352
+Plungė	Zarasai	321
+Plungė	Buknaičių PKP	69
+Plungė	Būtingės PKP	74
+Plungė	Kalvarijos PKP	240
+Plungė	Kalvių PKP	148
+Plungė	Kybartų PKP	220
+Plungė	Lavoriškių PKP	320
+Plungė	Lazdijų PKP	269
+Plungė	Medininkų PKP	320
+Plungė	Nidos PKP	109
+Plungė	Obelių PKP	289
+Plungė	Panemunės PKP	117
+Plungė	Raigardo PKP	308
+Plungė	Ramoniškių PKP	143
+Plungė	Šalčininkų PKP	328
+Plungė	Saločių PKP	199
+Plungė	Skuodo PKP	54
+Plungė	Smėlynės PKP	325
+Prienai	Radviliškis	157
+Prienai	Raseiniai	116
+Prienai	Rietavas	202
+Prienai	Rokiškis	211
+Prienai	Skuodas	274
+Prienai	Šakiai	88
+Prienai	Šalčininkai	131
+Prienai	Šiauliai	179
+Prienai	Šilalė	177
+Prienai	Šilutė	211
+Prienai	Širvintos	118
+Prienai	Švenčionys	182
+Prienai	Tauragė	154
+Prienai	Telšiai	225
+Prienai	Trakai	70
+Prienai	Ukmergė	108
+Prienai	Utena	172
+Prienai	Varėna	82
+Prienai	Vilkaviškis	69
+Prienai	Vilnius	97
+Prienai	Visaginas	244
+Prienai	Zarasai	220
+Prienai	Buknaičių PKP	272
+Prienai	Būtingės PKP	287
+Prienai	Kalvarijos PKP	80
+Prienai	Kalvių PKP	230
+Prienai	Kybartų PKP	84
+Prienai	Lavoriškių PKP	130
+Prienai	Lazdijų PKP	81
+Prienai	Medininkų PKP	128
+Prienai	Nidos PKP	296
+Prienai	Obelių PKP	229
+Prienai	Panemunės PKP	174
+Prienai	Raigardo PKP	96
+Prienai	Ramoniškių PKP	125
+Prienai	Šalčininkų PKP	136
+Prienai	Saločių PKP	211
+Prienai	Skuodo PKP	277
+Prienai	Smėlynės PKP	225
+Radviliškis	Raseiniai	67
+Radviliškis	Rietavas	143
+Radviliškis	Rokiškis	146
+Radviliškis	Skuodas	162
+Radviliškis	Šakiai	145
+Radviliškis	Šalčininkai	236
+Radviliškis	Šiauliai	22
+Radviliškis	Šilalė	118
+Radviliškis	Šilutė	174
+Radviliškis	Širvintos	144
+Radviliškis	Švenčionys	219
+Radviliškis	Tauragė	118
+Radviliškis	Telšiai	101
+Radviliškis	Trakai	187
+Radviliškis	Ukmergė	119
+Radviliškis	Utena	154
+Radviliškis	Varėna	237
+Radviliškis	Vilkaviškis	188
+Radviliškis	Vilnius	191
+Radviliškis	Visaginas	226
+Radviliškis	Zarasai	197
+Radviliškis	Buknaičių PKP	120
+Radviliškis	Būtingės PKP	193
+Radviliškis	Kalvarijos PKP	215
+Radviliškis	Kalvių PKP	73
+Radviliškis	Kybartų PKP	208
+Radviliškis	Lavoriškių PKP	223
+Radviliškis	Lazdijų PKP	236
+Radviliškis	Medininkų PKP	225
+Radviliškis	Nidos PKP	235
+Radviliškis	Obelių PKP	166
+Radviliškis	Panemunės PKP	149
+Radviliškis	Raigardo PKP	250
+Radviliškis	Ramoniškių PKP	131
+Radviliškis	Šalčininkų PKP	240
+Radviliškis	Saločių PKP	92
+Radviliškis	Skuodo PKP	165
+Radviliškis	Smėlynės PKP	202
+Raseiniai	Rietavas	96
+Raseiniai	Rokiškis	198
+Raseiniai	Skuodas	169
+Raseiniai	Šakiai	78
+Raseiniai	Šalčininkai	216
+Raseiniai	Šiauliai	89
+Raseiniai	Šilalė	72
+Raseiniai	Šilutė	127
+Raseiniai	Širvintos	158
+Raseiniai	Švenčionys	238
+Raseiniai	Tauragė	71
+Raseiniai	Telšiai	119
+Raseiniai	Trakai	161
+Raseiniai	Ukmergė	132
+Raseiniai	Utena	196
+Raseiniai	Varėna	196
+Raseiniai	Vilkaviškis	121
+Raseiniai	Vilnius	179
+Raseiniai	Visaginas	268
+Raseiniai	Zarasai	244
+Raseiniai	Buknaičių PKP	161
+Raseiniai	Būtingės PKP	181
+Raseiniai	Kalvarijos PKP	161
+Raseiniai	Kalvių PKP	140
+Raseiniai	Kybartų PKP	141
+Raseiniai	Lavoriškių PKP	212
+Raseiniai	Lazdijų PKP	189
+Raseiniai	Medininkų PKP	213
+Raseiniai	Nidos PKP	191
+Raseiniai	Obelių PKP	218
+Raseiniai	Panemunės PKP	102
+Raseiniai	Raigardo PKP	210
+Raseiniai	Ramoniškių PKP	64
+Raseiniai	Šalčininkų PKP	220
+Raseiniai	Saločių PKP	159
+Raseiniai	Skuodo PKP	172
+Raseiniai	Smėlynės PKP	249
+Rietavas	Rokiškis	281
+Rietavas	Skuodas	73
+Rietavas	Šakiai	135
+Rietavas	Šalčininkai	301
+Rietavas	Šiauliai	119
+Rietavas	Šilalė	34
+Rietavas	Šilutė	73
+Rietavas	Širvintos	244
+Rietavas	Švenčionys	323
+Rietavas	Tauragė	64
+Rietavas	Telšiai	52
+Rietavas	Trakai	246
+Rietavas	Ukmergė	218
+Rietavas	Utena	281
+Rietavas	Varėna	282
+Rietavas	Vilkaviškis	178
+Rietavas	Vilnius	265
+Rietavas	Visaginas	354
+Rietavas	Zarasai	330
+Rietavas	Buknaičių PKP	91
+Rietavas	Būtingės PKP	93
+Rietavas	Kalvarijos PKP	218
+Rietavas	Kalvių PKP	170
+Rietavas	Kybartų PKP	198
+Rietavas	Lavoriškių PKP	298
+Rietavas	Lazdijų PKP	246
+Rietavas	Medininkų PKP	298
+Rietavas	Nidos PKP	102
+Rietavas	Obelių PKP	301
+Rietavas	Panemunės PKP	94
+Rietavas	Raigardo PKP	286
+Rietavas	Ramoniškių PKP	121
+Rietavas	Šalčininkų PKP	306
+Rietavas	Saločių PKP	221
+Rietavas	Skuodo PKP	76
+Rietavas	Smėlynės PKP	334
+Rokiškis	Skuodas	301
+Rokiškis	Šakiai	233
+Rokiškis	Šalčininkai	204
+Rokiškis	Šiauliai	166
+Rokiškis	Šilalė	257
+Rokiškis	Šilutė	313
+Rokiškis	Širvintos	127
+Rokiškis	Švenčionys	131
+Rokiškis	Tauragė	256
+Rokiškis	Telšiai	240
+Rokiškis	Trakai	182
+Rokiškis	Ukmergė	103
+Rokiškis	Utena	66
+Rokiškis	Varėna	244
+Rokiškis	Vilkaviškis	250
+Rokiškis	Vilnius	159
+Rokiškis	Visaginas	98
+Rokiškis	Zarasai	60
+Rokiškis	Buknaičių PKP	259
+Rokiškis	Būtingės PKP	332
+Rokiškis	Kalvarijos PKP	269
+Rokiškis	Kalvių PKP	173
+Rokiškis	Kybartų PKP	270
+Rokiškis	Lavoriškių PKP	192
+Rokiškis	Lazdijų PKP	290
+Rokiškis	Medininkų PKP	193
+Rokiškis	Nidos PKP	374
+Rokiškis	Obelių PKP	28
+Rokiškis	Panemunės PKP	287
+Rokiškis	Raigardo PKP	295
+Rokiškis	Ramoniškių PKP	262
+Rokiškis	Šalčininkų PKP	209
+Rokiškis	Saločių PKP	105
+Rokiškis	Skuodo PKP	304
+Rokiškis	Smėlynės PKP	64
+Skuodas	Šakiai	208
+Skuodas	Šalčininkai	374
+Skuodas	Šiauliai	134
+Skuodas	Šilalė	107
+Skuodas	Šilutė	124
+Skuodas	Širvintos	306
+Skuodas	Švenčionys	381
+Skuodas	Tauragė	137
+Skuodas	Telšiai	75
+Skuodas	Trakai	319
+Skuodas	Ukmergė	281
+Skuodas	Utena	316
+Skuodas	Varėna	355
+Skuodas	Vilkaviškis	251
+Skuodas	Vilnius	337
+Skuodas	Visaginas	389
+Skuodas	Zarasai	358
+Skuodas	Buknaičių PKP	62
+Skuodas	Būtingės PKP	81
+Skuodas	Kalvarijos PKP	291
+Skuodas	Kalvių PKP	165
+Skuodas	Kybartų PKP	271
+Skuodas	Lavoriškių PKP	370
+Skuodas	Lazdijų PKP	319
+Skuodas	Medininkų PKP	371
+Skuodas	Nidos PKP	126
+Skuodas	Obelių PKP	326
+Skuodas	Panemunės PKP	167
+Skuodas	Raigardo PKP	359
+Skuodas	Ramoniškių PKP	194
+Skuodas	Šalčininkų PKP	379
+Skuodas	Saločių PKP	236
+Skuodas	Skuodo PKP	3
+Skuodas	Smėlynės PKP	362
+Šakiai	Šalčininkai	200
+Šakiai	Šiauliai	147
+Šakiai	Šilalė	101
+Šakiai	Šilutė	127
+Šakiai	Širvintos	157
+Šakiai	Švenčionys	237
+Šakiai	Tauragė	71
+Šakiai	Telšiai	164
+Šakiai	Trakai	145
+Šakiai	Ukmergė	131
+Šakiai	Utena	194
+Šakiai	Varėna	168
+Šakiai	Vilkaviškis	44
+Šakiai	Vilnius	164
+Šakiai	Visaginas	267
+Šakiai	Zarasai	243
+Šakiai	Buknaičių PKP	212
+Šakiai	Būtingės PKP	217
+Šakiai	Kalvarijos PKP	88
+Šakiai	Kalvių PKP	205
+Šakiai	Kybartų PKP	64
+Šakiai	Lavoriškių PKP	197
+Šakiai	Lazdijų PKP	116
+Šakiai	Medininkų PKP	197
+Šakiai	Nidos PKP	226
+Šakiai	Obelių PKP	252
+Šakiai	Panemunės PKP	90
+Šakiai	Raigardo PKP	156
+Šakiai	Ramoniškių PKP	41
+Šakiai	Šalčininkų PKP	205
+Šakiai	Saločių PKP	234
+Šakiai	Skuodo PKP	211
+Šakiai	Smėlynės PKP	247
+Šalčininkai	Šiauliai	258
+Šalčininkai	Šilalė	277
+Šalčininkai	Šilutė	322
+Šalčininkai	Širvintos	96
+Šalčininkai	Švenčionys	129
+Šalčininkai	Tauragė	266
+Šalčininkai	Telšiai	324
+Šalčininkai	Trakai	61
+Šalčininkai	Ukmergė	118
+Šalčininkai	Utena	142
+Šalčininkai	Varėna	64
+Šalčininkai	Vilkaviškis	197
+Šalčininkai	Vilnius	45
+Šalčininkai	Visaginas	197
+Šalčininkai	Zarasai	191
+Šalčininkai	Buknaičių PKP	355
+Šalčininkai	Būtingės PKP	387
+Šalčininkai	Kalvarijos PKP	179
+Šalčininkai	Kalvių PKP	290
+Šalčininkai	Kybartų PKP	212
+Šalčininkai	Lavoriškių PKP	73
+Šalčininkai	Lazdijų PKP	159
+Šalčininkai	Medininkų PKP	64
+Šalčininkai	Nidos PKP	396
+Šalčininkai	Obelių PKP	223
+Šalčininkai	Panemunės PKP	285
+Šalčininkai	Raigardo PKP	127
+Šalčininkai	Ramoniškių PKP	239
+Šalčininkai	Šalčininkų PKP	6
+Šalčininkai	Saločių PKP	255
+Šalčininkai	Skuodo PKP	379
+Šalčininkai	Smėlynės PKP	197
+Šiauliai	Šilalė	101
+Šiauliai	Šilutė	157
+Šiauliai	Širvintos	166
+Šiauliai	Švenčionys	241
+Šiauliai	Tauragė	102
+Šiauliai	Telšiai	72
+Šiauliai	Trakai	209
+Šiauliai	Ukmergė	141
+Šiauliai	Utena	176
+Šiauliai	Varėna	259
+Šiauliai	Vilkaviškis	190
+Šiauliai	Vilnius	213
+Šiauliai	Visaginas	249
+Šiauliai	Zarasai	220
+Šiauliai	Buknaičių PKP	91
+Šiauliai	Būtingės PKP	165
+Šiauliai	Kalvarijos PKP	231
+Šiauliai	Kalvių PKP	54
+Šiauliai	Kybartų PKP	210
+Šiauliai	Lavoriškių PKP	245
+Šiauliai	Lazdijų PKP	259
+Šiauliai	Medininkų PKP	247
+Šiauliai	Nidos PKP	206
+Šiauliai	Obelių PKP	188
+Šiauliai	Panemunės PKP	132
+Šiauliai	Raigardo PKP	273
+Šiauliai	Ramoniškių PKP	133
+Šiauliai	Šalčininkų PKP	262
+Šiauliai	Saločių PKP	100
+Šiauliai	Skuodo PKP	137
+Šiauliai	Smėlynės PKP	224
+Šilalė	Šilutė	56
+Šilalė	Širvintos	219
+Šilalė	Švenčionys	299
+Šilalė	Tauragė	31
+Šilalė	Telšiai	69
+Šilalė	Trakai	222
+Šilalė	Ukmergė	193
+Šilalė	Utena	257
+Šilalė	Varėna	257
+Šilalė	Vilkaviškis	145
+Šilalė	Vilnius	240
+Šilalė	Visaginas	329
+Šilalė	Zarasai	305
+Šilalė	Buknaičių PKP	126
+Šilalė	Būtingės PKP	120
+Šilalė	Kalvarijos PKP	185
+Šilalė	Kalvių PKP	158
+Šilalė	Kybartų PKP	165
+Šilalė	Lavoriškių PKP	273
+Šilalė	Lazdijų PKP	213
+Šilalė	Medininkų PKP	274
+Šilalė	Nidos PKP	129
+Šilalė	Obelių PKP	277
+Šilalė	Panemunės PKP	61
+Šilalė	Raigardo PKP	253
+Šilalė	Ramoniškių PKP	88
+Šilalė	Šalčininkų PKP	281
+Šilalė	Saločių PKP	209
+Šilalė	Skuodo PKP	110
+Šilalė	Smėlynės PKP	310
+Šilutė	Širvintos	275
+Šilutė	Švenčionys	355
+Šilutė	Tauragė	61
+Šilutė	Telšiai	124
+Šilutė	Trakai	267
+Šilutė	Ukmergė	249
+Šilutė	Utena	312
+Šilutė	Varėna	291
+Šilutė	Vilkaviškis	170
+Šilutė	Vilnius	286
+Šilutė	Visaginas	385
+Šilutė	Zarasai	361
+Šilutė	Buknaičių PKP	164
+Šilutė	Būtingės PKP	92
+Šilutė	Kalvarijos PKP	211
+Šilutė	Kalvių PKP	214
+Šilutė	Kybartų PKP	190
+Šilutė	Lavoriškių PKP	319
+Šilutė	Lazdijų PKP	239
+Šilutė	Medininkų PKP	319
+Šilutė	Nidos PKP	101
+Šilutė	Obelių PKP	333
+Šilutė	Panemunės PKP	46
+Šilutė	Raigardo PKP	278
+Šilutė	Ramoniškių PKP	114
+Šilutė	Šalčininkų PKP	327
+Šilutė	Saločių PKP	265
+Šilutė	Skuodo PKP	127
+Šilutė	Smėlynės PKP	365
+Širvintos	Švenčionys	118
+Širvintos	Tauragė	219
+Širvintos	Telšiai	245
+Širvintos	Trakai	59
+Širvintos	Ukmergė	26
+Širvintos	Utena	88
+Širvintos	Varėna	136
+Širvintos	Vilkaviškis	174
+Širvintos	Vilnius	51
+Širvintos	Visaginas	161
+Širvintos	Zarasai	137
+Širvintos	Buknaičių PKP	264
+Širvintos	Būtingės PKP	329
+Širvintos	Kalvarijos PKP	192
+Širvintos	Kalvių PKP	199
+Širvintos	Kybartų PKP	193
+Širvintos	Lavoriškių PKP	84
+Širvintos	Lazdijų PKP	178
+Širvintos	Medininkų PKP	85
+Širvintos	Nidos PKP	338
+Širvintos	Obelių PKP	146
+Širvintos	Panemunės PKP	242
+Širvintos	Raigardo PKP	181
+Širvintos	Ramoniškių PKP	194
+Širvintos	Šalčininkų PKP	101
+Širvintos	Saločių PKP	161
+Širvintos	Skuodo PKP	309
+Širvintos	Smėlynės PKP	141
+Švenčionys	Tauragė	298
+Švenčionys	Telšiai	319
+Švenčionys	Trakai	111
+Švenčionys	Ukmergė	106
+Švenčionys	Utena	67
+Švenčionys	Varėna	169
+Švenčionys	Vilkaviškis	249
+Švenčionys	Vilnius	85
+Švenčionys	Visaginas	68
+Švenčionys	Zarasai	79
+Švenčionys	Buknaičių PKP	339
+Švenčionys	Būtingės PKP	409
+Švenčionys	Kalvarijos PKP	257
+Švenčionys	Kalvių PKP	257
+Švenčionys	Kybartų PKP	264
+Švenčionys	Lavoriškių PKP	109
+Švenčionys	Lazdijų PKP	238
+Švenčionys	Medininkų PKP	115
+Švenčionys	Nidos PKP	418
+Švenčionys	Obelių PKP	130
+Švenčionys	Panemunės PKP	322
+Švenčionys	Raigardo PKP	219
+Švenčionys	Ramoniškių PKP	273
+Švenčionys	Šalčininkų PKP	134
+Švenčionys	Saločių PKP	203
+Švenčionys	Skuodo PKP	384
+Švenčionys	Smėlynės PKP	83
+Tauragė		Telšiai	97
+Tauragė		Trakai	211
+Tauragė	Ukmergė	193
+Tauragė	Utena	256
+Tauragė	Varėna	235
+Tauragė	Vilkaviškis	114
+Tauragė	Vilnius	230
+Tauragė	Visaginas	329
+Tauragė	Zarasai	305
+Tauragė	Buknaičių PKP	155
+Tauragė	Būtingės PKP	149
+Tauragė	Kalvarijos PKP	154
+Tauragė	Kalvių PKP	159
+Tauragė	Kybartų PKP	134
+Tauragė	Lavoriškių PKP	263
+Tauragė	Lazdijų PKP	183
+Tauragė	Medininkų PKP	263
+Tauragė	Nidos PKP	158
+Tauragė	Obelių PKP	276
+Tauragė	Panemunės PKP	31
+Tauragė	Raigardo PKP	222
+Tauragė	Ramoniškių PKP	57
+Tauragė	Šalčininkų PKP	271
+Tauragė	Saločių PKP	210
+Tauragė	Skuodo PKP	140
+Tauragė	Smėlynės PKP	309
+Telšiai	Trakai	269
+Telšiai	Ukmergė	220
+Telšiai	Utena	254
+Telšiai	Varėna	305
+Telšiai	Vilkaviškis	207
+Telšiai	Vilnius	288
+Telšiai	Visaginas	327
+Telšiai	Zarasai	296
+Telšiai	Buknaičių PKP	61
+Telšiai	Būtingės PKP	98
+Telšiai	Kalvarijos PKP	248
+Telšiai	Kalvių PKP	124
+Telšiai	Kybartų PKP	227
+Telšiai	Lavoriškių PKP	321
+Telšiai	Lazdijų PKP	276
+Telšiai	Medininkų PKP	321
+Telšiai	Nidos PKP	140
+Telšiai	Obelių PKP	264
+Telšiai	Panemunės PKP	127
+Telšiai	Raigardo PKP	315
+Telšiai	Ramoniškių PKP	150
+Telšiai	Šalčininkų PKP	329
+Telšiai	Saločių PKP	175
+Telšiai	Skuodo PKP	78
+Telšiai	Smėlynės PKP	300
+Trakai	Ukmergė	81
+Trakai	Utena	124
+Trakai	Varėna	79
+Trakai	Vilkaviškis	138
+Trakai	Vilnius	27
+Trakai	Visaginas	179
+Trakai	Zarasai	173
+Trakai	Buknaičių PKP	307
+Trakai	Būtingės PKP	331
+Trakai	Kalvarijos PKP	146
+Trakai	Kalvių PKP	253
+Trakai	Kybartų PKP	153
+Trakai	Lavoriškių PKP	60
+Trakai	Lazdijų PKP	127
+Trakai	Medininkų PKP	58
+Trakai	Nidos PKP	341
+Trakai	Obelių PKP	200
+Trakai	Panemunės PKP	230
+Trakai	Raigardo PKP	129
+Trakai	Ramoniškių PKP	182
+Trakai	Šalčininkų PKP	65
+Trakai	Saločių PKP	216
+Trakai	Skuodo PKP	322
+Trakai	Smėlynės PKP	177
+Ukmergė		Utena		63
+Ukmergė		Varėna		157
+Ukmergė		Vilkaviškis	147
+Ukmergė		Vilnius		73
+Ukmergė		Visaginas	136
+Ukmergė		Zarasai		112
+Ukmergė		Buknaičių PKP	239
+Ukmergė		Būtingės PKP	303
+Ukmergė		Kalvarijos PKP	166
+Ukmergė		Kalvių PKP	174
+Ukmergė		Kybartų PKP	167
+Ukmergė		Lavoriškių PKP	105
+Ukmergė		Lazdijų PKP	188
+Ukmergė		Medininkų PKP	107
+Ukmergė		Nidos PKP	312
+Ukmergė		Obelių PKP	121
+Ukmergė		Panemunės PKP	216
+Ukmergė		Raigardo PKP	192
+Ukmergė		Ramoniškių PKP	167
+Ukmergė		Šalčininkų PKP	122
+Ukmergė		Saločių PKP	136
+Ukmergė		Skuodo PKP	284
+Ukmergė		Smėlynės PKP	116
+Utena		Varėna		182
+Utena		Vilkaviškis	211
+Utena		Vilnius		97
+Utena		Visaginas	73
+Utena		Zarasai		49
+Utena		Buknaičių PKP	274
+Utena		Būtingės PKP	347
+Utena		Kalvarijos PKP	230
+Utena		Kalvių PKP	192
+Utena		Kybartų PKP	231
+Utena		Lavoriškių PKP	130
+Utena		Lazdijų PKP	251
+Utena		Medininkų PKP	131
+Utena		Nidos PKP	376
+Utena		Obelių PKP	84
+Utena		Panemunės PKP	279
+Utena		Raigardo PKP	244
+Utena		Ramoniškių PKP	231
+Utena		Šalčininkų PKP	147
+Utena		Saločių PKP	138
+Utena		Skuodo PKP	319
+Utena		Smėlynės PKP	53
+Varėna		Vilkaviškis	137
+Varėna		Vilnius		84
+Varėna		Visaginas	237
+Varėna		Zarasai		231
+Varėna		Buknaičių PKP	353
+Varėna		Būtingės PKP	367
+Varėna		Kalvarijos PKP	119
+Varėna		Kalvių PKP	310
+Varėna		Kybartų PKP	152
+Varėna		Lavoriškių PKP	117
+Varėna		Lazdijų PKP	96
+Varėna		Medininkų PKP	115
+Varėna		Nidos PKP	376
+Varėna		Obelių PKP	262
+Varėna		Panemunės PKP	254
+Varėna		Raigardo PKP	64
+Varėna		Ramoniškių PKP	205
+Varėna		Šalčininkų PKP	66
+Varėna		Saločių PKP	291
+Varėna		Skuodo PKP	358
+Varėna		Smėlynės PKP	235
+Vilkaviškis	Vilnius		165
+Vilkaviškis	Visaginas	284
+Vilkaviškis	Zarasai		260
+Vilkaviškis	Buknaičių PKP	255
+Vilkaviškis	Būtingės PKP	260
+Vilkaviškis	Kalvarijos PKP	56
+Vilkaviškis	Kalvių PKP	248
+Vilkaviškis	Kybartų PKP	20
+Vilkaviškis	Lavoriškių PKP	198
+Vilkaviškis	Lazdijų PKP	85
+Vilkaviškis	Medininkų PKP	196
+Vilkaviškis	Nidos PKP	270
+Vilkaviškis	Obelių PKP	269
+Vilkaviškis	Panemunės PKP	134
+Vilkaviškis	Raigardo PKP	124
+Vilkaviškis	Ramoniškių PKP	84
+Vilkaviškis	Šalčininkų PKP	201
+Vilkaviškis	Saločių PKP	250
+Vilkaviškis	Skuodo PKP	254
+Vilkaviškis	Smėlynės PKP	264
+Vilnius		Visaginas	152
+Vilnius		Zarasai		146
+Vilnius		Buknaičių PKP	311
+Vilnius		Būtingės PKP	350
+Vilnius		Kalvarijos PKP	172
+Vilnius		Kalvių PKP	246
+Vilnius		Kybartų PKP	180
+Vilnius		Lavoriškių PKP	33
+Vilnius		Lazdijų PKP	154
+Vilnius		Medininkų PKP	34
+Vilnius		Nidos PKP	359
+Vilnius		Obelių PKP	178
+Vilnius		Panemunės PKP	249
+Vilnius		Raigardo PKP	134
+Vilnius		Ramoniškių PKP	200
+Vilnius		Šalčininkų PKP	49
+Vilnius		Saločių PKP	208
+Vilnius		Skuodo PKP	340
+Vilnius		Smėlynės PKP	150
+Visaginas	Zarasai		38
+Visaginas	Buknaičių PKP	346
+Visaginas	Būtingės PKP	420
+Visaginas	Kalvarijos PKP	302
+Visaginas	Kalvių PKP	265
+Visaginas	Kybartų PKP	303
+Visaginas	Lavoriškių PKP	177
+Visaginas	Lazdijų PKP	306
+Visaginas	Medininkų PKP	183
+Visaginas	Nidos PKP	448
+Visaginas	Obelių PKP	89
+Visaginas	Panemunės PKP	352
+Visaginas	Raigardo PKP	287
+Visaginas	Ramoniškių PKP	303
+Visaginas	Šalčininkų PKP	202
+Visaginas	Saločių PKP	201
+Visaginas	Skuodo PKP	391
+Visaginas	Smėlynės PKP	43
+Zarasai		Buknaičių PKP	315
+Zarasai		Būtingės PKP	389
+Zarasai		Kalvarijos PKP	278
+Zarasai		Kalvių PKP	230
+Zarasai		Kybartų PKP	279
+Zarasai		Lavoriškių PKP	179
+Zarasai		Lazdijų PKP	300
+Zarasai		Medininkų PKP	180
+Zarasai		Nidos PKP	424
+Zarasai		Obelių PKP	50
+Zarasai		Panemunės PKP	328
+Zarasai		Raigardo PKP	293
+Zarasai		Ramoniškių PKP	280
+Zarasai		Šalčininkų PKP	195
+Zarasai		Saločių PKP	162
+Zarasai		Skuodo PKP	360
+Zarasai		Smėlynės PKP	4
+Buknaičių PKP	Būtingės PKP	137
+Buknaičių PKP	Kalvarijos PKP	295
+Buknaičių PKP	Kalvių PKP	122
+Buknaičių PKP	Kybartų PKP	275
+Buknaičių PKP	Lavoriškių PKP	343
+Buknaičių PKP	Lazdijų PKP	324
+Buknaičių PKP	Medininkų PKP	345
+Buknaičių PKP	Nidos PKP	178
+Buknaičių PKP	Obelių PKP	284
+Buknaičių PKP	Panemunės PKP	186
+Buknaičių PKP	Raigardo PKP	363
+Buknaičių PKP	Ramoniškių PKP	198
+Buknaičių PKP	Šalčininkų PKP	360
+Buknaičių PKP	Saločių PKP	194
+Buknaičių PKP	Skuodo PKP	65
+Buknaičių PKP	Smėlynės PKP	319
+Būtingės PKP	Kalvarijos PKP	301
+Būtingės PKP	Kalvių PKP	216
+Būtingės PKP	Kybartų PKP	280
+Būtingės PKP	Lavoriškių PKP	383
+Būtingės PKP	Lazdijų PKP	329
+Būtingės PKP	Medininkų PKP	383
+Būtingės PKP	Nidos PKP	95
+Būtingės PKP	Obelių PKP	357
+Būtingės PKP	Panemunės PKP	136
+Būtingės PKP	Raigardo PKP	368
+Būtingės PKP	Ramoniškių PKP	203
+Būtingės PKP	Šalčininkų PKP	391
+Būtingės PKP	Saločių PKP	267
+Būtingės PKP	Skuodo PKP	84
+Būtingės PKP	Smėlynės PKP	393
+Kalvarijos PKP	Kalvių PKP	288
+Kalvarijos PKP	Kybartų PKP	71
+Kalvarijos PKP	Lavoriškių PKP	205
+Kalvarijos PKP	Lazdijų PKP	53
+Kalvarijos PKP	Medininkų PKP	203
+Kalvarijos PKP	Nidos PKP	310
+Kalvarijos PKP	Obelių PKP	287
+Kalvarijos PKP	Panemunės PKP	174
+Kalvarijos PKP	Raigardo PKP	100
+Kalvarijos PKP	Ramoniškių PKP	125
+Kalvarijos PKP	Šalčininkų PKP	183
+Kalvarijos PKP	Saločių PKP	269
+Kalvarijos PKP	Skuodo PKP	294
+Kalvarijos PKP	Smėlynės PKP	283
+Kalvių PKP	Kybartų PKP	268
+Kalvių PKP	Lavoriškių PKP	278
+Kalvių PKP	Lazdijų PKP	310
+Kalvių PKP	Medininkų PKP	280
+Kalvių PKP	Nidos PKP	258
+Kalvių PKP	Obelių PKP	199
+Kalvių PKP	Panemunės PKP	190
+Kalvių PKP	Raigardo PKP	324
+Kalvių PKP	Ramoniškių PKP	191
+Kalvių PKP	Šalčininkų PKP	295
+Kalvių PKP	Saločių PKP	107
+Kalvių PKP	Skuodo PKP	167
+Kalvių PKP	Smėlynės PKP	234
+Kybartų PKP	Lavoriškių PKP	213
+Kybartų PKP	Lazdijų PKP	99
+Kybartų PKP	Medininkų PKP	211
+Kybartų PKP	Nidos PKP	289
+Kybartų PKP	Obelių PKP	288
+Kybartų PKP	Panemunės PKP	153
+Kybartų PKP	Raigardo PKP	139
+Kybartų PKP	Ramoniškių PKP	104
+Kybartų PKP	Šalčininkų PKP	216
+Kybartų PKP	Saločių PKP	270
+Kybartų PKP	Skuodo PKP	274
+Kybartų PKP	Smėlynės PKP	284
+Lavoriškių PKP	Lazdijų PKP	187
+Lavoriškių PKP	Medininkų PKP	54
+Lavoriškių PKP	Nidos PKP	392
+Lavoriškių PKP	Obelių PKP	210
+Lavoriškių PKP	Panemunės PKP	282
+Lavoriškių PKP	Raigardo PKP	167
+Lavoriškių PKP	Ramoniškių PKP	233
+Lavoriškių PKP	Šalčininkų PKP	78
+Lavoriškių PKP	Saločių PKP	240
+Lavoriškių PKP	Skuodo PKP	373
+Lavoriškių PKP	Smėlynės PKP	183
+Lazdijų PKP	Medininkų PKP	185
+Lazdijų PKP	Nidos PKP	338
+Lazdijų PKP	Obelių PKP	309
+Lazdijų PKP	Panemunės PKP	202
+Lazdijų PKP	Raigardo PKP	63
+Lazdijų PKP	Ramoniškių PKP	153
+Lazdijų PKP	Šalčininkų PKP	162
+Lazdijų PKP	Saločių PKP	290
+Lazdijų PKP	Skuodo PKP	322
+Lazdijų PKP	Smėlynės PKP	304
+Medininkų PKP	Nidos PKP	393
+Medininkų PKP	Obelių PKP	212
+Medininkų PKP	Panemunės PKP	282
+Medininkų PKP	Raigardo PKP	165
+Medininkų PKP	Ramoniškių PKP	234
+Medininkų PKP	Šalčininkų PKP	68
+Medininkų PKP	Saločių PKP	242
+Medininkų PKP	Skuodo PKP	374
+Medininkų PKP	Smėlynės PKP	184
+Nidos PKP	Obelių PKP	396
+Nidos PKP	Panemunės PKP	145
+Nidos PKP	Raigardo PKP	377
+Nidos PKP	Ramoniškių PKP	213
+Nidos PKP	Šalčininkų PKP	400
+Nidos PKP	Saločių PKP	308
+Nidos PKP	Skuodo PKP	129
+Nidos PKP	Smėlynės PKP	429
+Obelių PKP	Panemunės PKP	307
+Obelių PKP	Raigardo PKP	313
+Obelių PKP	Ramoniškių PKP	282
+Obelių PKP	Šalčininkų PKP	227
+Obelių PKP	Saločių PKP	131
+Obelių PKP	Skuodo PKP	329
+Obelių PKP	Smėlynės PKP	54
+Panemunės PKP	Raigardo PKP	241
+Panemunės PKP	Ramoniškių PKP	77
+Panemunės PKP	Šalčininkų PKP	290
+Panemunės PKP	Saločių PKP	241
+Panemunės PKP	Skuodo PKP	170
+Panemunės PKP	Smėlynės PKP	332
+Raigardo PKP	Ramoniškių PKP	192
+Raigardo PKP	Šalčininkų PKP	130
+Raigardo PKP	Saločių PKP	304
+Raigardo PKP	Skuodo PKP	362
+Raigardo PKP	Smėlynės PKP	297
+Ramoniškių PKP	Šalčininkų PKP	242
+Ramoniškių PKP	Saločių PKP	223
+Ramoniškių PKP	Skuodo PKP	197
+Ramoniškių PKP	Smėlynės PKP	284
+Šalčininkų PKP	Saločių PKP	257
+Šalčininkų PKP	Skuodo PKP	382
+Šalčininkų PKP	Smėlynės PKP	200
+Saločių PKP	Skuodo PKP	239
